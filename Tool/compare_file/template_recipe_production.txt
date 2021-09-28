@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="recipe.xsd">
+    <!--Start the Smartest if Smartest with specifed version has not started yet -->
+    <!--Smartest forceRestart="false" version="soc64_8.1.0.2"-->
+    <Smartest forceRestart="false">
+    <ModelFile>/etc/opt/hp93000/soc_common/tester.model</ModelFile>
+    <StartMode>ONLINE</StartMode>
+    <ShowSWC>false</ShowSWC>
+    <Assignment>
+      <!--Specify the environment variables for SmarTest-->
+      <Set name="ENV.VariableName" value="value" />
+    </Assignment>
+  </Smartest>
+  
+  <!-- Configure the libraries which will be later used in recipe -->  
+  <Libraries>
+    <Library name="GUILib" path="${ENV.XOC_SYSTEM}/lib/liblineDialog.so" />
+    <Library name="MyGUILib" path="${ENV.SMT8_PROD_PATH}/others/myliblineDialog.so" />
+    <Library name="PartIDLib" path="${ENV.XOC_SYSTEM}/lib/libpartIDIncrement.so" />
+    <Library name="ReaderLib" path="${ENV.SMT8_PROD_PATH}/others/liblineReader.so" />
+  </Libraries>
+  
+  <!-- Create and connect PH session with specified driver -->
+  <EquipmentControl function="START_PHCONTROL">
+    <!-- Currently, the first input must be GENERIC_93K_DRIVER-->
+    <In>GENERIC_93K_DRIVER</In>
+	<In>/opt/hp93000/testcell/phcontrol/drivers/Generic_93K_Driver/GenericHandler/Seiko-Epson/</In>
+	<In>/opt/hp93000/testcell/phcontrol/drivers/Generic_93K_Driver/GenericHandler/Seiko-Epson/config/NS5000-GPIB-8.cfg</In>
+  </EquipmentControl>
+
+  <!-- Active, Load, Bind and Start test program -->
+  <TestProgram action="RUN" name="${LOADFILE.ProgramName}"  workspace="${ENV.HOME}/${LOADFILE.Workspace}"  lotType="PACKAGE_TEST" enableMaintenanceCheck="false" />
+  <!-- To setup some detail lot information in a sub-recipe file -->  
+  <!--SubRecipe path="sub.xml" /-->
+
+  <Executable command="${ENV.SMT8_PROD_PATH}/others/GetSmarTestVersion.sh"> <Out>SmarTestVersion</Out> </Executable>
+  <Executable command="${ENV.SMT8_PROD_PATH}/others/GetTimeString"><In>Y/m/d H:i:s</In> <Out>SampleTimeStr</Out> </Executable>
+  
+  <LibraryCall function="ReaderLib.lineRead">
+    <In>GetValueProg:/var/opt/hp93000/soc_common/smt8_prod/others/GetValueProg</In>
+    <In>VariableName:STDF.LOT_ID,KeyName:Customer_Lot_No</In>
+    <In>VariableName:SBLOT_ID,KeyName:GS_Lot_No</In>
+    <In>VariableName:TEST_COD,KeyName:Test_Stage</In>
+    <In>VariableName:STDF.MODE_COD,KeyName:Period</In>
+    <!--In>VariableName:Retest_Number,KeyName:Retest_Number</In-->
+    <In>VariableName:DIB_ID,KeyName:Load_Board</In>
+    <In>VariableName:OPER_NAM,KeyName:Operator_ID</In>
+    <In>VariableName:Handler_ID,KeyName:ProberHandlerID</In>
+    <In>VariableName:TEST_TEMP,KeyName:Temperature</In>
+    <In>VariableName:Retest_bin,KeyName:Retest_Bin</In>
+    <!--In>VariableName:Wafer_number,KeyName:Wafer_number</In-->
+    <!--In>VariableName:ProductNo,KeyName:ProductNo</In-->
+    <!--In>VariableName:FabLotNo,KeyName:FabLotNo</In-->
+    <In>VariableName:RTST_COD,KeyName:Period</In>
+    
+  </LibraryCall>
+
+  <Assignment>
+        <Set name="Tester_ID" value="${ENV.HOSTNAME}" />
+        <Set name="STDF.JOB_NAM" value="${LOADFILE.TPRF_ProgramName}" />
+	<Set name="Test_program" value="${STDF.JOB_NAM}" />
+	<Set name="STDF.PART_TYP" value="${LOADFILE.PART_TYP}" />
+	<Set name="STDF.HAND_TYP" value="SEIKO" />  
+	<!--<Set name="DIB_TYP" value="QuadSite" /-->  
+	<Set name="SYSTEM" value="93000WF" />  
+	<Set name="STDF.USER_TXT" value="MTK" />  
+	<Set name="PACKAGE_TYPE" value="BGA" />  
+	<Set name="STDF.FACIL_ID" value="GIGASOLUTION" />  
+	<Set name="Test_description" value="" />  
+	<Set name="Device_Name" value="" />  
+	<Set name="Device_revision" value="" />  
+	<Set name="Test_version" value="" />  
+	<Set name="Test_program" value="" />  
+	<Set name="USR_DESC" value="" />  
+	<Set name="DSGN_REV" value="" />  
+	<!--Set name="STDF.Workspace" value="${LOADFILE.Workspace}" /-->
+  </Assignment>
+
+   <LibraryCall function="MyGUILib.lineDialog">
+	<In>DialogTitle:please input the lot variables</In>
+	<In>VariableName:STDF.LOT_ID,DisplayName:LOT__ID,IsReadonly:true</In>
+	<In>VariableName:SBLOT_ID,DisplayName:SBLOT__ID,IsReadonly:true</In>
+	<In>VariableName:TEST_COD,DisplayName:TEST__COD,IsReadonly:true</In>
+	<In>VariableName:STDF.MODE_COD,DisplayName:MODE__COD,IsReadonly:true</In>
+	<In>VariableName:Retest_bin,DisplayName:Retest__bin,IsReadonly:true</In>
+	<In>VariableName:STDF.PART_TYP,DisplayName:PART__TYP,IsReadonly:true</In>
+	<!--In>VariableName:HAND_TYP,DisplayName:HAND_TYP</In-->
+	<In>VariableName:Handler_ID,DisplayName:Handler__ID,IsReadonly:true</In>
+	<In>VariableName:Tester_ID,DisplayName:Tester__ID,IsReadonly:true</In>
+	<!--<In>VariableName:DIB_TYP,DisplayName:DIB__TYP</In-->
+	<In>VariableName:DIB_ID,DisplayName:DIB__ID,IsReadonly:true</In>
+	<In>VariableName:OPER_NAM,DisplayName:OPER__NAM,IsReadonly:true</In>
+	<!--In>VariableName:STDF.USER_TXT,DisplayName:USER__TXT</In-->
+	<In>VariableName:SYSTEM,DisplayName:SYSTEM,IsReadonly:true</In>
+	<In>VariableName:TEST_TEMP,DisplayName:TEST__TEMP,IsReadonly:true</In>
+	<In>VariableName:PACKAGE_TYPE,DisplayName:PACKAGE__TYPE,IsReadonly:true</In>
+	<In>VariableName:STDF.FACIL_ID,DisplayName:FACIL__ID,IsReadonly:true</In>
+	<In>VariableName:STDF.USER_TXT,DisplayName:USER__TXT,IsReadonly:true</In>
+	<!-- In>VariableName:Date,DisplayName:Date</In> 
+	<In>VariableName:STDF.RTST_COD,DisplayName:RTST__COD</In> 
+	<In>VariableName:Test_description,DisplayName:Test__description</In>
+	<In>VariableName:Device_name,DisplayName:Device__name</In>
+	<In>VariableName:Device_revision,DisplayName:Device__revision</In> 
+	<In>VariableName:Test_version,DisplayName:Test__version</In> 
+	<In>VariableName:Test_program,DisplayName:Test_program</In
+	<In>VariableName:USR_DESC,DisplayName:USR__DESC</In> 
+	<In>VariableName:DSGN_REV,DisplayName:DSGN__REV</In> 
+        <In>VariableName:SmarTestVersion,DisplayName:xxxxxxxxx1</In> 
+	<In>VariableName:SampleTimeStr,DisplayName:xxxxxxxxx2</In> 
+	<In>VariableName:Lot_Start_time,DisplayName:Lot_Start_time</In -->
+  </LibraryCall>
+
+
+<!-- 
+ 
+  <LibraryCall function="GUILib.lineDialog">
+    <In>DialogTitle:please input the lot variables</In>
+    <In>VariableName:device_type,DisplayName:Device Type</In>
+  </LibraryCall>
+
+  <Executable command="${ENV.SMT8_PROD_PATH}/others/checktf">
+     <In>${device_type}</In>
+     <Out>checktptf_result</Out>
+  </Executable>
+-->
+
+  <Assignment>
+        <Set name="LotStartTime" value="${ENV.TIMESTAMP}" />
+  </Assignment>
+
+
+ <Assignment>
+<!--	<Set name="TC.datalogPath" value="${ENV.SMT8_PROD_PATH}/prod_result/${LotStartTime}_${STDF.LOT_ID}_${TEST_COD}_R${STDF.MODE_COD}_${Retest_bin}_${SBLOT_ID}" /> -->
+	<Set name="TC.datalogPath" value="/home/prod/hp93000/reports/${STDF.PART_TYP}/${LotStartTime}_${STDF.LOT_ID}_${TEST_COD}_R${STDF.MODE_COD}_${Retest_bin}_${SBLOT_ID}" />
+  </Assignment>
+
+
+  <Level name="LOT">
+    <LoopCount>1</LoopCount>
+
+	<Break>
+      		<Expression>
+          		<LeftValue>${lineDialog_isOk}</LeftValue>
+          		<CompareOperator>!=</CompareOperator>
+          		<RightValue>true</RightValue>
+      		</Expression>
+  	</Break>
+
+<!--
+  <Break>
+      <Expression>
+          <LeftValue>${checktptf_result}</LeftValue>
+          <CompareOperator>==</CompareOperator>
+          <RightValue>ERROR</RightValue>
+      </Expression>
+  </Break>
+-->
+    <!-- Send command to PH for LOAD_LOT -->
+    <EquipmentControl function="LOAD_LOT" />  
+  
+    <!-- Open the text, edl and STDF datalog -->    
+    <!--Datalog action="OPEN" type="ASCII" path="${TC.datalogPath}.txt" /-->
+    <!--Datalog action="OPEN" type="EDL" path="${TC.datalogPath}.edl" /-->
+    <Datalog action="OPEN" type="STDF" path="${TC.datalogPath}.stdf" />
+    <Datalog action="OPEN" type="SUMMARY" path="${TC.datalogPath}.sum" />
+    <!--<Datalog action="OPEN" type="CUSTOM" path="/tmp/cus_${LotStartTime}.tmp" customFormatterPath="${ENV.SMT8_PROD_PATH}/others/libCSVsummaryFormatter.so"/>    
+    -->
+	<Assignment>
+		<Set name="STDF.PART_ID" value="0" />
+	</Assignment>
+
+        
+  
+    <Level name="DEVICE">
+      <LoopCount>-1</LoopCount>
+      <!-- Send command to PH for LOAD_DEVICE -->
+      <EquipmentControl function="LOAD_DEVICE" />
+
+      <!--Here use the default library to auto increment the STDF.PART_ID, user may provide the algorithm by self-->
+      <LibraryCall function="PartIDLib.autoIncrementPartID"/>                  
+      <Testflow action="ExecuteMainflow"/>
+      <!-- After testing finished, Send command to PH for BIN_DEVICE  -->
+      <EquipmentControl function="BIN_DEVICE" />      
+    </Level>
+
+    <!-- Close all opened datalog files -->     
+    <!--Datalog action="CLOSE" type="ASCII" path="${TC.datalogPath}.txt" /-->
+    <!--Datalog action="CLOSE" type="EDL" path="${TC.datalogPath}.edl" /-->
+    <!--<Datalog action="CLOSE" type="CUSTOM" path="/tmp/cus_${LotStartTime}.tmp" customFormatterPath="${ENV.SMT8_PROD_PATH}/others/libCSVsummaryFormatter.so"/>
+    -->
+    <Datalog action="CLOSE" type="STDF" path="${TC.datalogPath}.stdf" />
+    <Datalog action="CLOSE" type="SUMMARY" path="${TC.datalogPath}.sum" />
+    <!-- After lot testing finished, Send command to PH for UNLOAD_LOT  -->
+    
+    <EquipmentControl function="UNLOAD_LOT" /> 
+    
+    <!--print chk_double-->
+    <Executable command="/gsapp/chk_double.sh"/>  
+  </Level>
+
+  <!-- Stop PH when recipe is execution finished -->  
+  <EquipmentControl function="STOP_PHCONTROL" />
+</Recipe>

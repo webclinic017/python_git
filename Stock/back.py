@@ -1,39 +1,17 @@
-# data feeds
 import datetime
 import backtrader as bt
 import backtrader.feeds as btfeeds
 import math
+import os
 
-# 從Yahoo Finance取得資料
-# data = btfeeds.YahooFinanceData(dataname='TESLA', 
-#                                 fromdate=datetime.datetime(2019, 1, 1),
-#                                 todate=datetime.datetime(2019, 12, 31))
-
-# data = bt.feeds.GenericCSVData(dataname='C:\\Users\\Brian.tsai\\Desktop\\Python\\Stock\\2330.TW.csv') 
-dt_start = datetime.datetime.strptime("20210721", "%Y%m%d")
+relative_path = os.getcwd()
+dt_start = datetime.datetime.strptime("20201021", "%Y%m%d")
 dt_end = datetime.datetime.strptime("20210923", "%Y%m%d")
+stock_num = "2611"
+start_cash = 100000
 
-
-# class MyCsvFileData(bt.feeds.GenericCSVData):
-#     # 自定义的文件格式
-#     params = (
-#         ('fromdate', datetime.datetime(2000, 1, 1)),
-#         ('todate', datetime.datetime(2000, 12, 31)),
-#         ('nullvalue', 0.0),
-#         ('dtformat', ('%Y-%m-%d %H:%M:%S')),
-#         # ('tmformat', ('%H.%M.%S')),
-#         ('nullvalue', 0.00),
-#         ('datetime', 0),
-#         ('high', 1),
-#         ('low', 2),
-#         ('open', 3),
-#         ('close', 4),
-#         ('volume', 'vol'),
-#         ('openinterest', -1)
-#     )
-# data = MyCsvFileData(dataname='C:\\Users\\Brian.tsai\\Desktop\\Python\\Stock\\2330.TW.csv', start="20001219", end="20001225")
 data = bt.feeds.GenericCSVData(
-    dataname='C:\\Users\\Brian.tsai\\Desktop\\Python\\Stock\\20210924.csv',
+    dataname= relative_path + "\\dataFeed\\" + stock_num + ".csv",
     fromdate=dt_start,      # 起止日期
     todate=dt_end,
     nullvalue=0.0,
@@ -64,6 +42,8 @@ class SmaCross(bt.Strategy):
         # 均線交叉策略
         sma1 = bt.ind.SMA(period=self.p.ma_period_short)
         sma2 = bt.ind.SMA(period=self.p.ma_period_long)
+        self.lines.top = bt.indicators.BollingerBands(self.datas[0], period=20).top
+        self.lines.bot = bt.indicators.BollingerBands(self.datas[0], period=20).bot
         self.crossover = bt.ind.CrossOver(sma1, sma2)
         
         # 使用自訂的sizer函數，將帳上的錢all-in
@@ -72,13 +52,30 @@ class SmaCross(bt.Strategy):
         # 用開盤價做交易
         self.dataopen = self.datas[0].open
 
+        # 關盤價
+        self.dataclose = self.datas[0].close
+
+        # 成交量
+        self.datavolume = self.datas[0].volume
+
     def next(self):
+        print('當前可用資金', self.broker.getcash())
+        print('當前總資產', self.broker.getvalue())
+        print('當前持倉量', self.broker.getposition(self.data).size)
+        print('當前持倉成本', self.broker.getposition(self.data).price)
+        print(self.position)
         # 帳戶沒有部位
         if not self.position:
             # 5ma往上穿越20ma
-            if self.crossover > 0:
+            # print("bool top: " + str(self.lines.top[0]))
+            # print("bool bot: " + str(self.lines.bot[0]))
+            if self.crossover > 0 and self.dataclose[0] < 1.3 * self.lines.bot[0] : 
+
+                # print("close: " + str(self.dataclose[0]))
+                # print("bool: " + str(1.3 * self.lines.bot[0]))
                 # 印出買賣日期與價位
                 self.log('BUY ' + ', Price: ' + str(self.dataopen[0]))
+                # print("Volume: " + str(self.datavolume[0]))
                 # 使用開盤價買入標的
                 self.buy(price=self.dataopen[0])
         # 5ma往下穿越20ma
@@ -91,9 +88,18 @@ class SmaCross(bt.Strategy):
 # 計算交易部位
 class sizer(bt.Sizer):
     def _getsizing(self, comminfo, cash, data, isbuy):
-        if isbuy:
-            return math.floor(cash/data[1])
+        if isbuy:          
+            # print(data[0])
+            # print(data[1])
+            # print(math.floor(cash/data[0]))
+            # print(math.floor(cash/data[1]))
+            print(type(data))
+            size = math.floor(cash/data[1])
+            if size > 10:
+                size = 10
+            return size
         else:
+            print("sell: " + str(self.broker.getposition(data)))
             return self.broker.getposition(data)
 
 # 初始化cerebro
@@ -102,6 +108,10 @@ cerebro = bt.Cerebro()
 cerebro.adddata(data)
 # add strategy
 cerebro.addstrategy(SmaCross)
+
+cerebro.broker.setcash(start_cash)
+# cerebro.broker.setcommission(commission=0.002)
+
 # run backtest
 cerebro.run()
 # plot diagram

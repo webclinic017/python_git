@@ -1,0 +1,5 @@
+Start record: 2021-08-25 23:50:32
+SMT status, TCCT status, mouse or keyboard using, Recipe status
+ , ,Mouse moving > 100,  
+ , ,Mouse moving > 100,  
+Stop record: 2021-08-25 23:50:38
