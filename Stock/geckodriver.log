@@ -1,0 +1,1230 @@
+1632479419372	geckodriver	INFO	Listening on 127.0.0.1:51757
+1632479423047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofilekyMmm3"
+1632479461591	geckodriver	INFO	Listening on 127.0.0.1:51906
+1632479464603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofilew1kVN6"
+1632479465916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofilew1kVN6\\search.json.mozlz4", (void 0)))
+1632479472147	Marionette	INFO	Listening on port 51916
+1632479472339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3553 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476446414/index.js, line 1089: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6610 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6858 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6963 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476446414/index.js, line 1089: TypeError: clickBox is undefined
+1632479715303	Marionette	INFO	Stopped listening on port 51916
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632479924903	geckodriver	INFO	Listening on 127.0.0.1:52158
+1632479927934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileS23XG7"
+1632479928688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileS23XG7\\search.json.mozlz4", (void 0)))
+1632479931978	Marionette	INFO	Listening on port 52166
+1632479932272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5827 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5466 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476929199/index.js, line 1692: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4677 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6219 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2956 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476929199/index.js, line 1692: TypeError: clickBox is undefined
+1632479959037	Marionette	INFO	Stopped listening on port 52166
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632479979597	geckodriver	INFO	Listening on 127.0.0.1:52309
+1632479982620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileSUjGcM"
+1632479983118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileSUjGcM\\search.json.mozlz4", (void 0)))
+1632479985768	Marionette	INFO	Listening on port 52317
+1632479985897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://s0.2mdn.net/10688351/1630476446414/index.js, line 1089: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5363 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1086 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5650 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476446414/index.js, line 1089: TypeError: clickBox is undefined
+1632480328342	Marionette	INFO	Stopped listening on port 52317
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632480660383	geckodriver	INFO	Listening on 127.0.0.1:52648
+1632480663414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileLpLzJD"
+1632480664172	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileLpLzJD\\search.json.mozlz4", (void 0)))
+1632480667314	Marionette	INFO	Listening on port 52656
+1632480667762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+1632480670408	Marionette	INFO	Stopped listening on port 52656
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632480682785	geckodriver	INFO	Listening on 127.0.0.1:52743
+1632480685815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileJCRN50"
+1632480686310	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileJCRN50\\search.json.mozlz4", (void 0)))
+1632480689297	Marionette	INFO	Listening on port 52752
+1632480689658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507153/Serving/adServer.bs?c=28&cn=display&pli=1076973405&gdpr=&gdpr_consent=&w=160&h=600&ord=1632480692136571&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCUcMDtK1NYfuqCMSf8wWDvI3wDu3c1qRl6q_k_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEvQFP0EJPTkUy9jcpJ7nL7yqY0slGI2y7wI-8zLB9-GJwovaHE5ImcGrqwTH5QpYQY2wH4LWhgzXdtN1w04N6Ta3TfgkI1aIK-C8kFZPQ41xb2Jh4bcjvR0oilNMqfD0LnZkik9ZhN_BqgOYSRJROjLZM8EbSwfaQhPaZO1fFIOrcxOk47JBA5vfvkuUZkYqtUvdVO-VsvtZ8R6QL6NCSng90wEQqIzMSCfn3mT8EHwHiYb-PyqyHKiU9V_9QObXABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRorxPBWYgeQzxSa2tbySo4uLGmNg%26sig%3DAOD64_27nxSPVjXlidEyAebXbhsuGLerHA%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-DBHHm2SUJXfnKdF48z0kDSuTdYtD7se53LeToz8uhFfiHNJzrmZcCG1Yy5TP6UzVMGOmaL5dezBcrm2jNxuUS6ds30eSLbRaXURgJPPa1tPQx67jC52bU_JD00wUyszxm4KZy8oOM2AJzAIX-am1BCbYnAIw%26cry%3D1%26dbm_d%3DAKAmf-DlDQl6PG0YzfjVr-iAffv1g5wiWBjPtW9HBVd7E7vp9XJrrcW1RbrJ0DZwEGuVVxzYdF9NY_3ENt0PMs3APtEJx2a4H2PlFfAF3IY71plRXQ5ZqlNzwhFQhMxieUScraPtx0Z3K5z5m1bdMCXxyuANtxKQWIFODFJXz4fNK3yXu4D5Hk-pqsAF8BvZalzMmhBvA2HXa9bOPXEivlq6E12dafUriAgkKJuzlWaDoam9RzekAz6wOpx3eiu7xdGeIy8lBVAEi4zTK66EcPv3CqlDbheLAZ4KvTqMTX471stx1p_rIMIhkz1J7nU4sXlokCNruzhNzN5riwAFF5QFBJf7VAyXf53Z6Q4Oafn7zseztiljb52jXNhLkYtlY3Az8Kw_Ey5ycz6Tv7RGhiTRZw2C4TDajxliK3_7wgMMa7brMu3d8egv1qH_JqHzuzainDMlHMlpccWQP5Q_m-9qfTvjPSRGDLgXgJpbItuQn2hjoFKdvKQgHMT63PTzC4waMX5rbRKN%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5523 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5059 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3868 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3183 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632480791302	Marionette	INFO	Stopped listening on port 52752
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+moteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://s0.2mdn.net/10688351/1630476936887/index.js, line 1667: TypeError: clickBox is undefined
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4469 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 7615 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6861 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 909 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2232 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632480792041	Marionette	INFO	Stopped listening on port 52900
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632481346092	geckodriver	INFO	Listening on 127.0.0.1:58544
+1632481349114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofile4w3Rvg"
+1632481349617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofile4w3Rvg\\search.json.mozlz4", (void 0)))
+1632481352570	Marionette	INFO	Listening on port 58552
+1632481352961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1956 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507153/Serving/adServer.bs?c=28&cn=display&pli=1076973405&gdpr=&gdpr_consent=&w=160&h=600&ord=1632481355793432&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCtA_eS7BNYdi2MNHU8wXogLKwAe3c1qRl6q_k_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEwwFP0NY09DuAXwS12blwzM8vY_9oTe0EpzKA1w1NhowAdVgNBeb3VwWbdfrEN3xAdJmK-13wA9LrwRuV4l9oJhe-NDniGZD_p1INb_j95hb8PjavmEz6BhyU0BachFDQrw4EW2PadUUoBv-0h2nUtXC7ffEUJ-mBODGc1Wigbv1qYKUb9V4BcNGiI_uGD9GHoUJWylbXQGKaZL8D3mtEhEQ_ZSfOKg82IkTWiIqOtN1lmFMQHa4Ufa99AneQ9B9MUOWoDSbABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRowPUn0zqtWwanDSWBjPXb10pdYg%26sig%3DAOD64_26wpDk_tU9eQEuSUK-eV4GvV6Zsw%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-BnuXsuROwYWbrybYKTpTQcKLG7owTPFoo8HXet9RTvk8fVB3qbOG8pNe8eNxGyL61h5O0eq1v2yKWlIOnSvvNtSRzklOgBH9hqEhBpXjnkJvZPF6vjHbMHtWE92tvTem5yHhb5jbiYkKBVF9VZXoPImsPI6g%26cry%3D1%26dbm_d%3DAKAmf-BG2a6qTh_dkoIkngAuHoSbXR1OZrnaxXarcVO6jX8_QF7QHnrxbZvcjBUj52oPnTFLOKaTu3r1Se45CuhNGGIa2cpgGyrdUIIKwUXIOO4Sl6UzgIDwXz-Od-wXp16Qd0A4Ait2laGX0P-GO6gRus4nEv6DiC0z7LuCdax4Atw0eQ15mCcl180xNH9KL4CZGfWuPpGErM2a9BsXIq95gc5L7bmkOPU9MQmA3T9JcPHmm6KMmCK7Rt4smMq4fBeIyNZ6Lmf9IS4Ck7xe01Fo8cVBobW-FaJ6ic8gHROewK6QO9ToXqHN_cCtIyozPkRWo9QYYe5RyNLUouCdIZOMkWk0MZhr29UTXLz6wr137x1tcgocGrvlI3TcENMv0N2FgztjG8PW81JsbRnorxvm8QwUjXG8eWMF-lX4qifRc9QsnBkR2Pk3uWm3R3jOKiwTeup5ygFVgA3SajJjGDrDwmvjlunzpROY-owK8wHXlFNjU9RAK17x45CrJlY80BSaZP41PdbG%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3098 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4936 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632481418887	Marionette	INFO	Stopped listening on port 58552
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632481495745	geckodriver	INFO	Listening on 127.0.0.1:58727
+1632481498785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileZt3tBz"
+1632481499342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileZt3tBz\\search.json.mozlz4", (void 0)))
+1632481502091	Marionette	INFO	Listening on port 58736
+1632481502138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://s0.2mdn.net/10688351/1630476446414/index.js, line 1089: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1706 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 945 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1391 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1922 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 329 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/10688351/1630476462356/index.js, line 1196: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6687 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3455 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4926 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476462356/index.js, line 1196: TypeError: clickBox is undefined
+1632481587537	Marionette	INFO	Stopped listening on port 58736
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632481641147	geckodriver	INFO	Listening on 127.0.0.1:58898
+1632481644178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileQsh8Ay"
+1632481644664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileQsh8Ay\\search.json.mozlz4", (void 0)))
+1632481646985	Marionette	INFO	Listening on port 58907
+1632481647419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 880 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 135: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507157/Serving/adServer.bs?c=28&cn=display&pli=1076973406&gdpr=&gdpr_consent=&w=300&h=250&ord=1632481649957159&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCwQk-cbFNYee1OpaM8ALF_62AAe3c1qRlirHk_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEvQFP0Ngnnq3RhcjFUZUxTICdkSRbgiXriewkxMMtyczjE9Zklev2ECkdbVa4eUcB_ndzWaSgXhZcLF6IV2eHP5VgkuVqdyq7hz6s9x917_ddjyRH0NdpfIMhOrbEgLarRrDAioJkd9d4I-nPEHX6hSrB7FqMvzAakjCJJtKYs42tyOG6XwCsmkeRawScF2lWN9FoG_0_QGhD0iK7iXPrwZ_9K7_aw8PYtAIliyqVoyroYrS4XLZDBCTsPFl8BFLABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQH4FgGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRoNO7rU-XjoWOP0gySQOV6uAN6Ig%26sig%3DAOD64_3LeAyB3kZ3A1Nc5r3CtUnicSjWaQ%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-DuiIrU643vhGohnwz3KH6KKe0cvbHOkdxllGy06CF9U8mQeXU9qkiZXOLC8ZWHHjpB9dF8mbIaa2XfIbB24vpVhIcElUio04GsuKTbqYhW_1IcbIRohgqqwYlPqXcw1tf_WZB_bSOy9JMfu0b-5htH0K3e3A%26cry%3D1%26dbm_d%3DAKAmf-A-ztMuR9--wYPZLqezRhOyq_ILWdRtNyad9WtPt9G8T1SImDLOJcJlSGCkOImqJNtaqjxrW9dugihG4Kv6BM58wm57qZfaYasGKp-Motcnb3Tfcb5TWkFIdeQDgaGR4jgl9WIJrJS0Ndod9YOE4EwMiDHU2rO3vedZDTUc59OCMlIdbrtmsksuF9x0XfIzZbTOPSr1OS0w0SwWVSecyiOj7ZOUpdFspgXid04h1j8f3sWs16qs3IysZeHDDnTbVjP_iZ0qL1vvYsqMWkXmEIlam4B-AwsMImIV2v6jF-5P9kWdLwLGjkvHxrCt2skGbAxmjeMA3NKBDW5RnUR9mqmfRdXxffCa3TgrTApzVcPND28vdPvvoF8rNJnfTblMarkgtCFS-PtJ1DYmq6KldpO4a7cjn6J-nqfUuzpCGeTi5SHGmKlru2B5EFqhDz_5C17Nk_zJWcJ8wUdYN4d0ujOFilA7aEJuaRc547a4EysA5PvttLz-vF4VDdH6DX2i_Hjb2WhC%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2538 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4311 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632481707645	Marionette	INFO	Stopped listening on port 58907
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileG0u91Y\\search.json.mozlz4", (void 0)))
+1632481686708	Marionette	INFO	Listening on port 59046
+1632481686865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20210922/r20110914/client/qs_click_protection_fy2019.js, line 22: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507153/Serving/adServer.bs?c=28&cn=display&pli=1076973405&gdpr=&gdpr_consent=&w=160&h=600&ord=1632481689413628&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCXwsNmbFNYbyfGZLh8gXm97rAA-3c1qRl6q_k_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEvQFP0FtBvq2nCsZdCyHu6C-Hv5BuMwe1QbOBlsIeutdY4XrA81feKJJX3dB2Q5cTKFX_YcPcUXgdYtnzqtJ3zu8W2_gkLIL9KKw9GWub4BEPIubUoX49ExMJLtUngztzTkhPNfrvT6K3AVtYwNXWJHPzNyaxH1gBOconnzqic_JjDRJbg7NRurvDJieuAQIHgBwR8lxDImr4JPWShNhZP7PoeORfooJPkyEwC7lRE20d7xt8V9gFjq4aWGjhl1jABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQH4FgGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRopPUncE6P9xiv2qC__vDfH3mmhA%26sig%3DAOD64_0qrIlkP7-noC9gDRPhS6OznFSCMw%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-B9J9xI3bgQVysCvmi2iIxMf9aEiZOWEN2GS_DJ2c-9Zi4XLiBvlCmkTaFOzMX2_dWiQ0WSC2Iol6YU5PSiPzav1785_1m4mLQtE9dfEJO7KSZLWwSTaobUdiiT2rnE25JeQ4LPRcSbVBqXhN5N5_l-nTJFsA%26cry%3D1%26dbm_d%3DAKAmf-BNoLVjeyiEW7WTq7ocU6z1H9q8usPaFa9DMc0VIbYcJB0c3h9FgjvktwDKgExUFqCBmDaQrt9N7VArOx4dKejGusE1rX-SJod_biXXr7dS-sdP2J0Etxigy17NrzqK40eiS-FJ8_Ua9mRnBEIUAtUC21rt5W9PtFUwSUDNNaiGMCu3I169vlj3gtmcRSiy2n7bMq1xq0LCnHzcfqdqMkdsMZJOl7bofyhEd_uBdDoRU9Dz4ho3JDVQyQvWmwr_xrEvMfA-veGhn6HsxiTRul18mxn4K8CECuS1Mqxh2UeHA7GCXvh5kpySVRkjQdPbiJ1uTNEU24dPlLDmT8d9qWmYPvHDiLjCHDUwcW9BoO5n0beU_sVykITxtXlZoOoMNnWmVr3-r7Khf_6bBM-ihn1Qv50BbMQIOrGUkjnqDgIDimy5okpq-MOzOrxu2c9JOtaNyXoVL-3t406wOvuRkqI1TDr2yF_Lmvj0vBJRHtV15GtSwsh5mzF-go2edsZ3kWM5xeSR%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6918 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 7013 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5006 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4947 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632481706943	Marionette	INFO	Stopped listening on port 59046
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632481724201	geckodriver	INFO	Listening on 127.0.0.1:59207
+1632481727243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileB7VM4H"
+1632481727734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileB7VM4H\\search.json.mozlz4", (void 0)))
+1632481730448	Marionette	INFO	Listening on port 59217
+1632481730512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6351 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 135: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ed10b4790a49866c1363f4e2e0f8792f.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html line 2 > injectedScript, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507153/Serving/adServer.bs?c=28&cn=display&pli=1076973405&gdpr=&gdpr_consent=&w=160&h=600&ord=1632481733690489&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCs6axxbFNYbmSKoSb8AXAmaSYDu3c1qRl6q_k_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEvQFP0MrQp8nOK1e2DABjPQUNXOxn_Ki-bjmsErJ4ttCcCd5Bx-xGx-BZapGnx3DVrJVhM69MtGC1p134WBPb58U5x9CWtUgt0aQ6X-H4ccHDqNM3PNPdHwbtyx9e_IRep79EfN0fESGXGelU767B4r_cIUevphI1Tp0YlOcQo7PDg__hIxTOf9LqBIGDyWx1wfCA3QUlipigcBYdgXb0c1T7n4h1wM1POrs6b2crc_yyaM33_8lxUtLvpC1wnjXABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRoD5EBoJ5Jj3oIihRo7wCuxWO-YA%26sig%3DAOD64_1WUXxyIxACpWAjzotRh6fbsQF-Fg%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-Ahio6gn7PzYnd7niMzaGN5bAqsjvobrKZ9DKfnLfRE6qpHIro_leVhqqeiQyIdhW9QadvbRxFa33p9U6En8O-JP71JOQmCIvFmu9r09OSfi4069yauR-hl_3xB9u6so4dPmX7_NLPS27O3zrZNC7jOska9ig%26cry%3D1%26dbm_d%3DAKAmf-BWwW73xHVEiMsT7Fcb4YPKQHakZ5VVcseb3NGpfkmwGZXlnTF3zKpCoKCgPQZ91EjXidv3SZamGzIdB71li9io-vMj6uWDhCJ3oUYGeIhdG3soQdwfqo7wxGq5M2Pp9A64xbf8Cvz2TK85tuygUloh5pJ8tyErZqEMuPnyKtKFP0bV2c46-3vhZjo3OpFplPeCmQ34bVeUfV_G93yyXkQcC2j_-ypfNlOiX30CxHCCnkxKlsADZZxzwk4rA4z1ha3_y3Q3wgo_Bb2lOTSqjpjOjE5aGidkz-I3vvzVokfavIfMjxeiy_2oidyy3Q0xy1dchDmAwf3EMjnLVtGQqe-ypi4Nc105sFi8ZtZMqvK2PGprwTT-GnO3s9yqaKo5VNPu7TIWlGMTGBBq0prnvRL0fLWtXhhutKYPosp5G0Th9Ez26VLBfMdjgIjjHje7hzbEP-XDPlMjGFfS9hG2KbMHmFEihaSqSjz6z3Tm1MsluqINTcAoD0NB2YxFXdXS0MZMz89h%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_273.js, line 74: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/10688351/1630476462356/index.js, line 1196: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 7391 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4019 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2492 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632481816889	Marionette	INFO	Stopped listening on port 59217
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] JavaScript error: https://s0.2mdn.net/10688351/1630476439404/index.js, line 1284: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1104 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6450 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5279 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3903 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476439404/index.js, line 1284: TypeError: clickBox is undefined
+1632481880977	Marionette	INFO	Stopped listening on port 59346
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632481881666	geckodriver	INFO	Listening on 127.0.0.1:59468
+1632481884709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileuzdJGn"
+1632481885260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileuzdJGn\\search.json.mozlz4", (void 0)))
+1632481888414	Marionette	INFO	Listening on port 59477
+1632481888594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2269 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2763 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5242 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4844 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/10688351/1630476462356/index.js, line 1196: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4988 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3621 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632481904286	Marionette	INFO	Stopped listening on port 59477
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632482223539	geckodriver	INFO	Listening on 127.0.0.1:63878
+1632482226561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileh8KW6t"
+1632482227040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileh8KW6t\\search.json.mozlz4", (void 0)))
+1632482229440	Marionette	INFO	Listening on port 63886
+1632482229795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://s0.2mdn.net/10688351/1630476446414/index.js, line 1089: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1616 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 7344 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632482301734	Marionette	INFO	Stopped listening on port 63886
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632482936084	geckodriver	INFO	Listening on 127.0.0.1:50572
+1632482939107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileWucXhx"
+1632482939614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileWucXhx\\search.json.mozlz4", (void 0)))
+1632482942635	Marionette	INFO	Listening on port 50581
+1632482942952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15398972782962276893/index.html#t=15555043798300054702&p=https%3A%2F%2F0f512f6ea479156fbd756507a354138a.safeframe.googlesyndication.com, line 122: TypeError: a.g is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2140 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2380 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4031 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 268: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 185 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632482956742	Marionette	INFO	Stopped listening on port 50581
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632483151762	geckodriver	INFO	Listening on 127.0.0.1:50742
+1632483154794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileogsLTI"
+1632483155320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileogsLTI\\search.json.mozlz4", (void 0)))
+1632483158242	Marionette	INFO	Listening on port 50750
+1632483158646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://s0.2mdn.net/10688351/1630476446414/index.js, line 1089: TypeError: clickBox is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507153/Serving/adServer.bs?c=28&cn=display&pli=1076973405&gdpr=&gdpr_consent=&w=160&h=600&ord=1632483161013193&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DC0crWWbdNYYln1IXZBPblqNAK7dzWpGXqr-T-4g7Nxv3fBRABIKGhoB9gn4GAgKgiyAEJqAMBqgS9AU_Q_VSAA5yHnL83K5FoGy7IhZumkKDaqXlXf4vXcAlk9YOefXUFRXNw6n3aHsz3PzGcs6tycJq2RSUtQKGLDTHIHBr7abIPI3K9ZF9OzKK2YkujanXVfD0lVY7YqwIQ6z1gKIjErEfOl09kX__xQcjOkQK9uvHP9klwNQGgdNRrjMv8x74qNssFxYjtlL3vYEbUKMhEXPr3D2oYhjyPmo5NGPIVnAR3GEmm4-pyX3PxkDcRIofoVvk_AH6qQ8AEi_ud3dID4AQDkAYBoAZNgAfl0ZKmAagH8NkbqAfy2RuoB47OG6gHk9gbqAe6BqgH7paxAqgH1ckbqAemvhuoB_PRG6gHltgbqAeqm7ECqAffn7EC2AcA0ggHCIhhEAEYHYAKAZgLAcgLAYAMAbAT2KTbDNATANgTCtgUAdAVAYAXAQ%26ae%3D1%26num%3D1%26cid%3DCAASFeRoNjKf0mtu4_3ZBIfGka5hT-33CQ%26sig%3DAOD64_3NYxAASJkSnn9tSUtql5g1DKgkLw%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-CH-IpNb9eh629DYXH-RaITVw3XkWwNU-dz-ed-JmDqM49yoW-KbDw2Lrzg2OVQ5c3aCN_Irtm5DQebFmxbD6oLgyhR4wdOsqq8GSBHRAJhgnXGKP-3S8lyBZgZCefy9Csl58ToWQAZkGXcPSzj5AdP7AqhIw%26cry%3D1%26dbm_d%3DAKAmf-DHdhKinWuEZWNg0Q-JsG2M8Ux1KqbI98_bYFUOM4LwaFh7wKx8mDA_NyyI27Wx6dEbBrXvnE_gF1ImT-uXcU6o_kryHhss8gA0nJb0BraWhxZzPoXYn6svl03rMiubTpZc-5qh3CKC3FEieYlsZ-xWSxYl8ohDjT3aUNIiCftwPcGCo9PBkz7Iy4Be4w39HDdeJILkiQA24SzlE3OifdrKTb3KlF_JY_KT1V9c-uuv5spxpX81YRcMqOGH5GUIQ9PhmXZmiXLghD0HQ8qapgJQUPA9-_fawDGGE9gClIysI-yk-MeNwSbuZooiEVZVyuJwQGiYTfFD6gLgxdvUwdrSltclJcJjM3OnPzPAIonU2cXcuuv7A7FNfjpy_IlEuX0a68FaGE9J3dDzqVqvHY70YIyE6ulUCMwYf8xEZKUaPvznS1wShSLMUgqYIRgHkL7hVxZjP0zf71wRLWGUOWtlUdasV5tfXAYGYx1CPkF_hfRA5e6f2IyUinfpfpT3yTVeixMu%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6396 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476943734/index.js, line 1666: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6490 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1360 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1570 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632483173253	Marionette	INFO	Stopped listening on port 50750
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632483908017	geckodriver	INFO	Listening on 127.0.0.1:53713
+1632483911031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofilekNeXvX"
+1632483912394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofilekNeXvX\\search.json.mozlz4", (void 0)))
+1632483915758	Marionette	INFO	Listening on port 53721
+1632483915980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6127 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476439404/index.js, line 1284: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 194 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5326 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 268: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6078949975329667528/index.html#t=78951296858712618&p=https%3A%2F%2F682d4e179832fffd7fd30753a746eaa4.safeframe.googlesyndication.com, line 122: TypeError: a.g is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4400 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6078949975329667528/index.html#t=78951296858712618&p=https%3A%2F%2F682d4e179832fffd7fd30753a746eaa4.safeframe.googlesyndication.com, line 137: TypeError: this.g is null
+1632483927943	Marionette	INFO	Stopped listening on port 53721
+[Parent 17620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632484000430	geckodriver	INFO	Listening on 127.0.0.1:53865
+1632484003454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileSthHum"
+1632484004145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileSthHum\\search.json.mozlz4", (void 0)))
+1632484007028	Marionette	INFO	Listening on port 53878
+1632484007295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3667 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507157/Serving/adServer.bs?c=28&cn=display&pli=1076973406&gdpr=&gdpr_consent=&w=300&h=250&ord=1632484009909471&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCGps2qbpNYZ_BN5G89QWIqoXgBe3c1qRlirHk_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEvQFP0IedEJMXkKWgpUn8k_k6G1RhOOjiK_N4GZPGEa9YhaKnLTpbO97cdmy45LMR7rkpeL4qV-TBxAbzF14Dio9yhY49b0voedljKIGIBm81265agNshR45V2XrPS46HjxAamVacOW0jQwBhZubIV2lRRGs_Mvvf-oCFHcOaG0tChKO85vJDWJ_uN8G9Cqvn6SYeguxB9-lM9jyMz5-sylGYmyRD7_X4wASDSHxVFD6B1hnxXMDoC3Nwjk6K8YzABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRo-tLUc3YfIQIHGGJwWrf27gKovg%26sig%3DAOD64_3zGA_RGaqMjhr2eoXKiTzrxMhfiw%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-A69ZN133eDu0C5TPtN0RNVPq0ms4wvPqwSa8fBKaQaKD0bkYzV_WkBM7g0bagGiQ0iz0RnAlgfr8w-bChiFKstBt_wDHmZ7eCOuhrPFLDdJMOldvV6gWTByVXraCe0QxU4Jrxo5mY5Xu9UclVjCgjDi8gY5A%26cry%3D1%26dbm_d%3DAKAmf-DlIXAUy0bxSWHmFrWugBCJsDeaNTvBPIj80RqLTY5Gd3FUAQ4q0k9AJi0NSzJ5Bv0PxPg_r7sAKszhjMk9kqT2tAIUgIxf-i1bvsdBXCQVa-agzOxSMYiR2ksQBqUWIQItH4nJ_YsQuY73Qc2qAekKM4dvcHQCp9LTxtNafZKChKq7oLS6olK_smcbGrj3ZINWE3P5tWn16ZPYQQ64SliM6LPhHcWGjRTrY9d9ktQc0JP_fvrJr2FndEeGTY6ULm8KeoWHlGZLH-k6Ko9Z3V_8XyB3txsXHwFtNl1z5-9sWMf93DAzN3MX2OYSlqtU5gZrIrT9n9o7BO9_aAcPa6D2Bk8VJwnkB2ftrEXs29EZ9S3etJSg9A7fYycap19d83pj_VZgRirrfVdLZeym15Ae2O_kNttRCr62dqPWxa16wOnxKN8WkZrThTkO9KLW28kY99saC1I6eRAh_TvNlZFww4_z4CsTGaC6pE4cuwibhh2OTw_9aDsYvREGA5DNvfxmNlEg%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/10688351/1630476462356/index.js, line 1196: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5552 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2465 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1099 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476462356/index.js, line 1196: TypeError: clickBox is undefined
+1632484071201	Marionette	INFO	Stopped listening on port 53878
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rror: 'google_ad_client' is missing from the tag config.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507153/Serving/adServer.bs?c=28&cn=display&pli=1076973405&gdpr=&gdpr_consent=&w=160&h=600&ord=1632484054632716&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DCJk3Q1rpNYYzPJsGC2gSfzI_gC-3c1qRl6q_k_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEwwFP0H8uwF8lwTwrsBWIe4wXc_VZKxFuCHGDM_Sy59vJmy7TVc8sBJEH-Sypa1IY07qu4jZTZFOeun4roECn567AMvgW7Gi6lzL_ZLD8SS2IGyKqhXkEFe8M-6bVFZFiHk1R-ZWMGnfbRKvdy9SgQdHfioTIyzpIYhLZ1OLYxVE--B6q5RPXGO_y7RcFTDDTg15KAdPb_6O9cJiN0-9-61JKP9ykQzwFNw8GTCuFqItrorrL7csNGC1DDvDdWYj8wqCZTprABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQH4FgGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRolY6hK8fl07UN67IxuIoNz98VzQ%26sig%3DAOD64_2WWQ8k30nCmO0dCki9VtX_ZFIFaQ%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-A6YmJuXgRI2c9oqVabRfC2NnLcoe6jAwRTL_-duz2CpXok7aztEwUO4f70MuLDq8wyqyLupFKHwoAxxoJRUyMF6EY49mhIuGxfHKqiPyQyYeBB4vNB0AN731Cc0geUPgm-dcJAVprO_2pDQfMH5rPa5WdZMA%26cry%3D1%26dbm_d%3DAKAmf-DAq-BIEQeCQ31s3fR-ozIM3HPEjewyjzerfdl1B9eFxbWtQGRTPQQKE5aIcOXhXRRfyqOZBdW24HrdGAoNS8GGLFcgP44KZ3-_58fY5k1TRfn6vXAceAxwkNa-gU6_NCBnEwNrPLZYIhJTHcKBI2uUn5Vvc7sAx00jp6WEONIvtI4uxFEAyeb_N1C7yy8uPUm1exlTdRqKO22TPFb_onx8rGkrOn0C6aAdnPKFLXvyJ8nyvcAkBAvP5RBv3-bZqhrA_qvqyLVPpbHL9GPoLc4WozxEB6ux9kiKE6n-zZhFhiZ_HeaUhgJWD4SwBoW5roCN19_V3L7p6EcjDW6MIr_NfErmDCr3RQtBy9gOVjCLRb0dm0qMxgbFk8c575y3v7Ov21WrnDnFFiiEhzgjGCoxl1wt6bXWp5oNsjAxCDdsBbb59j7vXsZPYp9JHIDyJadxISVIm3ZCRMG5CoN9Fuyy42VmMoAVmuE5VQ8ePxeJ4DkkJ_NQIBsBX1oqMLff1HKp3fzh%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6837 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 485 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 90 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632484070256	Marionette	INFO	Stopped listening on port 54012
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1632484166947	geckodriver	INFO	Listening on 127.0.0.1:54250
+1632484169986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofilehX0OMY"
+1632484170839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofilehX0OMY\\search.json.mozlz4", (void 0)))
+1632484173317	Marionette	INFO	Listening on port 54258
+1632484173821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://fw.adsafeprotected.com/rjss/bs.serving-sys.com/335508/56507153/Serving/adServer.bs?c=28&cn=display&pli=1076973405&gdpr=&gdpr_consent=&w=160&h=600&ord=1632484176272836&ncu=$$https://googleads.g.doubleclick.net/dbm/clk%3Fsa%3DL%26ai%3DC4DzHULtNYcTTENak2wSNlpbwAe3c1qRl6q_k_uIOzcb93wUQASChoaAfYJ-BgICoIsgBCagDAaoEwwFP0MdgOT-VX4uamxlOV2rxLXyHx5qYNBILg8CLm7RlhhfJ3rK4CwIWIt7Hxl-YfX-SgmUnZm4pFFfeCy7Hg6UjtNwm_ZoDDmsJSvFjjEsY2afy6X5F5klwzcxtARffVCEJK7G-aBR7EEQEgpPwIGNWDkpc75InnhG8tpwjVa1qs-ar028lgsM4xTZP59DZdKGJgmmN7Fezg32CpxYT_44lW7qozypXc7wh_yyI6Vq3QpJeyrtzt9-M_yidFr4rS7qa1tDABIv7nd3SA-AEA5AGAaAGTYAH5dGSpgGoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB9XJG6gHpr4bqAfz0RuoB5bYG6gHqpuxAqgH35-xAtgHANIIBwiIYRABGB2ACgGYCwHICwGADAGwE9ik2wzQEwDYEwrYFAHQFQGAFwE%26ae%3D1%26num%3D1%26cid%3DCAASFeRoEtu2kXDGgnwsRx4Ix9vEYXY5lg%26sig%3DAOD64_1kkIMl0n81qm7QDc4-mJyfLCd22A%26client%3Dca-pub-6082610302230142%26dbm_c%3DAKAmf-CW2OO3hJMoz_ommeKrUWIdjIAjNEZvhPjUrmeWfzHy9BrGTw-5Vl0O5wAcv5IesYcgltCVWl4yLSM5KM_MtOU_SxtJ2_exoXVKvtUt1taFWZk-oowQudv6ge9J9O6-SCCUcJpjl-sFtGb43cgWgnJPwpN7PQ%26cry%3D1%26dbm_d%3DAKAmf-A9ynyX13r0LvBJViY0rWn44jgstlTuFyM1MI0bUqZyWEt58Vw6juqraHdSfjTone_eAIhoovoR8tg6jsH_tnixKdnhsza7cQozl90Uo2EblgXSvam_UNUMo--hy2xeTyeeR-Plc4qXi2J5PTZkPd03jQtlPr9s7VMWm1nKWrLBZaqSjVzXd8N3ACi-HimBqRtMTOTYRv6Odvp2vxaimtXLcYqtT4PICF6GLLAD5Iv4u1nOPIhsgrrDf7LgN0Iq1ba9_S7MQZjTjXvUhYHA18kRQ80RqPPb56Zve4DoMI-gOUCRk1A4pMAxcTFwmSR1I7mvgP0731tS0n9Ek98QGuGVVw0YAdPk-hnIzvTu0pJfyrfEHC5kjNkZi-MyA_wRHqEH52ySZRADEr67ZoJnPwpks8dpOf27U3DZsDClR1_q5-jy3ZVMhn3neXOm2NgpShKktPDx4S80_zWCywpNGotGK2YTfwFYBf6aNeKvJXvd_P257f6oohISxZe2AKQpTHG_n_5C%26adurl%3D$$&ifrm=-1&ebaddid=$$[Device_Advertising_ID_MACRO]$$&z=0, line 1008: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5829 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6428 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1476 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632484181561	Marionette	INFO	Stopped listening on port 54258
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Brian.tsai\AppData\Local\Temp\rust_mozprofilehX0OMY\protections.sqlite
+1632484297529	geckodriver	INFO	Listening on 127.0.0.1:54390
+1632484300574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileveC6qD"
+1632484301066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileveC6qD\\search.json.mozlz4", (void 0)))
+1632484303746	Marionette	INFO	Listening on port 54399
+1632484303815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://s0.2mdn.net/10688351/1630476929199/index.js, line 1692: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 1057 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 7578 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5273 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4733 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3677 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/10688351/1630476943734/index.js, line 1666: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6361 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3374 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6878 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632484316725	Marionette	INFO	Stopped listening on port 54399
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632484440728	geckodriver	INFO	Listening on 127.0.0.1:50063
+1632484443739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileKb7IRl"
+1632484444247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileKb7IRl\\search.json.mozlz4", (void 0)))
+1632484447039	Marionette	INFO	Listening on port 50073
+1632484447095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://s0.2mdn.net/10688351/1630476929199/index.js, line 1692: TypeError: clickBox is undefined
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3021 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3511 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2757 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 119: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4061 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2927 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4247 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632484458682	Marionette	INFO	Stopped listening on port 50073
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_210_3_0/ebStdBanner.js, line 268: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632727948018	geckodriver	INFO	Listening on 127.0.0.1:51250
+1632727951886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofilecxuwxG"
+1632727992118	geckodriver	INFO	Listening on 127.0.0.1:51552
+1632727995173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileBF9iGx"
+1632727995893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileBF9iGx\\search.json.mozlz4", (void 0)))
+1632727999750	Marionette	INFO	Listening on port 51560
+1632728000137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 972 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 5968 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 548 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 3809 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632728287679	Marionette	INFO	Stopped listening on port 51560
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rror: 'google_ad_client' is missing from the tag config.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/10688351/1630476439404/index.js, line 1284: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 2429 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 886 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 1949 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632728075403	Marionette	INFO	Stopped listening on port 62625
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632728161957	geckodriver	INFO	Listening on 127.0.0.1:62748
+1632728164989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileJWvzzx"
+1632728166125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileJWvzzx\\search.json.mozlz4", (void 0)))
+1632728169662	Marionette	INFO	Listening on port 62759
+1632728169954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/10688351/1630476462356/index.js, line 1196: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 3271 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632728180318	Marionette	INFO	Stopped listening on port 62759
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690022,name=PNecko::Msg_RequestContextAfterDOMContentLoaded) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632728291328	geckodriver	INFO	Listening on 127.0.0.1:62880
+1632728294351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\BRIAN~1.TSA\\AppData\\Local\\Temp\\rust_mozprofileTboRLC"
+1632728294842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Brian.tsai\\AppData\\Local\\Temp\\rust_mozprofileTboRLC\\search.json.mozlz4", (void 0)))
+1632728297534	Marionette	INFO	Listening on port 62889
+1632728297600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: 'google_ad_client' is missing from the tag config.
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/10688351/1630476922356/index.js, line 1774: TypeError: clickBox is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 235 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 2806 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632728307825	Marionette	INFO	Stopped listening on port 62889
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
