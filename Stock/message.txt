@@ -1,0 +1,2532 @@
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 0
+- Adjbase: None
+--- Position End
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 0
+- Adjbase: None
+--- Position End
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 0
+- Adjbase: None
+--- Position End
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 0
+- Adjbase: None
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 0
+- Adjbase: None
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.7
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.35
+--- Position End
+當前可用資金 99926.2
+當前總資產 100000.4
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.42
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.8
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.8
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.8
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.59999999999
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.34
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.7
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.35
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.8
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99926.2
+當前總資產 99999.8
+當前持倉量 10
+當前持倉成本 7.38
+--- Position Begin
+- Size: 10
+- Price: 7.38
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99999.8
+當前總資產 99999.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.38
+- Closed: -10
+- Opened: 0
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99999.8
+當前總資產 99999.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.38
+- Closed: -10
+- Opened: 0
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99999.8
+當前總資產 99999.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.38
+- Closed: -10
+- Opened: 0
+- Adjbase: 7.36
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.38
+- Closed: -10
+- Opened: 0
+- Adjbase: 7.36
+--- Position End
+當前可用資金 99926.3
+當前總資產 100000.1
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.38
+--- Position End
+當前可用資金 99926.3
+當前總資產 100000.7
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.44
+--- Position End
+當前可用資金 99926.3
+當前總資產 100000.7
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.44
+--- Position End
+當前可用資金 99926.3
+當前總資產 100002.40000000001
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.61
+--- Position End
+當前可用資金 99926.3
+當前總資產 100003.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.7
+--- Position End
+當前可用資金 99926.3
+當前總資產 100005.6
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.93
+--- Position End
+當前可用資金 99926.3
+當前總資產 100004.8
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 7.85
+--- Position End
+當前可用資金 99926.3
+當前總資產 100011.7
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 8.54
+--- Position End
+當前可用資金 99926.3
+當前總資產 100020.2
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 9.39
+--- Position End
+當前可用資金 99926.3
+當前總資產 100017.0
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 9.07
+--- Position End
+當前可用資金 99926.3
+當前總資產 100014.2
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 8.79
+--- Position End
+當前可用資金 99926.3
+當前總資產 100018.0
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 9.17
+--- Position End
+當前可用資金 99926.3
+當前總資產 100020.90000000001
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 9.46
+--- Position End
+當前可用資金 99926.3
+當前總資產 100030.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.4
+--- Position End
+當前可用資金 99926.3
+當前總資產 100040.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 11.4
+--- Position End
+當前可用資金 99926.3
+當前總資產 100034.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.8
+--- Position End
+當前可用資金 99926.3
+當前總資產 100044.8
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 11.85
+--- Position End
+當前可用資金 99926.3
+當前總資產 100056.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.0
+--- Position End
+當前可用資金 99926.3
+當前總資產 100069.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 14.3
+--- Position End
+當前可用資金 99926.3
+當前總資產 100083.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 15.7
+--- Position End
+當前可用資金 99926.3
+當前總資產 100067.8
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 14.15
+--- Position End
+當前可用資金 99926.3
+當前總資產 100053.8
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 12.75
+--- Position End
+當前可用資金 99926.3
+當前總資產 100057.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.1
+--- Position End
+當前可用資金 99926.3
+當前總資產 100044.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 11.8
+--- Position End
+當前可用資金 99926.3
+當前總資產 100039.3
+當前持倉量 10
+當前持倉成本 7.35
+--- Position Begin
+- Size: 10
+- Price: 7.35
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 100038.8
+當前總資產 100038.8
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+當前可用資金 99935.8
+當前總資產 100039.8
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.4
+--- Position End
+當前可用資金 99935.8
+當前總資產 100039.8
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.4
+--- Position End
+當前可用資金 99935.8
+當前總資產 100037.8
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.2
+--- Position End
+當前可用資金 99935.8
+當前總資產 100038.8
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.3
+--- Position End
+當前可用資金 99935.8
+當前總資產 100037.3
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.15
+--- Position End
+當前可用資金 99935.8
+當前總資產 100034.8
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 9.9
+--- Position End
+當前可用資金 99935.8
+當前總資產 100035.8
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.0
+--- Position End
+當前可用資金 99935.8
+當前總資產 100035.8
+當前持倉量 10
+當前持倉成本 10.3
+--- Position Begin
+- Size: 10
+- Price: 10.3
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.0
+--- Position End
+當前可用資金 100035.7
+當前總資產 100035.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.3
+- Closed: -10
+- Opened: 0
+- Adjbase: 10.0
+--- Position End
+當前可用資金 100035.7
+當前總資產 100035.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.3
+- Closed: -10
+- Opened: 0
+- Adjbase: 10.0
+--- Position End
+當前可用資金 100035.7
+當前總資產 100035.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.3
+- Closed: -10
+- Opened: 0
+- Adjbase: 10.0
+--- Position End
+當前可用資金 100035.7
+當前總資產 100035.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.3
+- Closed: -10
+- Opened: 0
+- Adjbase: 10.0
+--- Position End
+當前可用資金 100035.7
+當前總資產 100035.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.3
+- Closed: -10
+- Opened: 0
+- Adjbase: 10.0
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.3
+- Closed: -10
+- Opened: 0
+- Adjbase: 10.0
+--- Position End
+當前可用資金 99933.7
+當前總資產 100035.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 10.15
+--- Position End
+當前可用資金 99933.7
+當前總資產 100045.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 11.15
+--- Position End
+當前可用資金 99933.7
+當前總資產 100056.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 12.25
+--- Position End
+當前可用資金 99933.7
+當前總資產 100055.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 12.15
+--- Position End
+當前可用資金 99933.7
+當前總資產 100062.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 12.85
+--- Position End
+當前可用資金 99933.7
+當前總資產 100074.7
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 14.1
+--- Position End
+當前可用資金 99933.7
+當前總資產 100079.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 14.55
+--- Position End
+當前可用資金 99933.7
+當前總資產 100065.7
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.2
+--- Position End
+當前可用資金 99933.7
+當前總資產 100070.7
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.7
+--- Position End
+當前可用資金 99933.7
+當前總資產 100065.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.15
+--- Position End
+當前可用資金 99933.7
+當前總資產 100069.7
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.6
+--- Position End
+當前可用資金 99933.7
+當前總資產 100067.7
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.4
+--- Position End
+當前可用資金 99933.7
+當前總資產 100066.7
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.3
+--- Position End
+當前可用資金 99933.7
+當前總資產 100068.2
+當前持倉量 10
+當前持倉成本 10.2
+--- Position Begin
+- Size: 10
+- Price: 10.2
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 100069.2
+當前總資產 100069.2
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+當前可用資金 99874.7
+當前總資產 100075.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 20.05
+--- Position End
+當前可用資金 99874.7
+當前總資產 100095.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 22.05
+--- Position End
+當前可用資金 99874.7
+當前總資產 100117.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 24.25
+--- Position End
+當前可用資金 99874.7
+當前總資產 100141.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 26.65
+--- Position End
+當前可用資金 99874.7
+當前總資產 100167.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 29.3
+--- Position End
+當前可用資金 99874.7
+當前總資產 100138.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 26.4
+--- Position End
+當前可用資金 99874.7
+當前總資產 100164.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 29.0
+--- Position End
+當前可用資金 99874.7
+當前總資產 100193.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 31.9
+--- Position End
+當前可用資金 99874.7
+當前總資產 100225.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 35.05
+--- Position End
+當前可用資金 99874.7
+當前總資產 100260.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 38.55
+--- Position End
+當前可用資金 99874.7
+當前總資產 100298.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 42.4
+--- Position End
+當前可用資金 99874.7
+當前總資產 100309.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 43.5
+--- Position End
+當前可用資金 99874.7
+當前總資產 100283.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 40.85
+--- Position End
+當前可用資金 99874.7
+當前總資產 100263.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 38.85
+--- Position End
+當前可用資金 99874.7
+當前總資產 100257.2
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 38.25
+--- Position End
+當前可用資金 99874.7
+當前總資產 100235.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 36.1
+--- Position End
+當前可用資金 99874.7
+當前總資產 100264.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 39.0
+--- Position End
+當前可用資金 99874.7
+當前總資產 100246.7
+當前持倉量 10
+當前持倉成本 19.45
+--- Position Begin
+- Size: 10
+- Price: 19.45
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 100257.7
+當前總資產 100257.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End
+當前可用資金 99937.7
+當前總資產 100245.7
+當前持倉量 10
+當前持倉成本 32.0
+--- Position Begin
+- Size: 10
+- Price: 32.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 30.8
+--- Position End
+當前可用資金 99937.7
+當前總資產 100241.2
+當前持倉量 10
+當前持倉成本 32.0
+--- Position Begin
+- Size: 10
+- Price: 32.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 30.35
+--- Position End
+當前可用資金 99937.7
+當前總資產 100236.2
+當前持倉量 10
+當前持倉成本 32.0
+--- Position Begin
+- Size: 10
+- Price: 32.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 10
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End
+當前可用資金 100236.7
+當前總資產 100236.7
+當前持倉量 0
+當前持倉成本 0.0
+--- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 32.0
+- Closed: -10
+- Opened: 0
+- Adjbase: 29.85
+--- Position End

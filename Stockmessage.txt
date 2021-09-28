@@ -1,0 +1,48 @@
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 0.0
+- Closed: 0
+- Opened: 0
+- Adjbase: None
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.38
+- Closed: -10
+- Opened: 0
+- Adjbase: 7.36
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 7.35
+- Closed: -10
+- Opened: 0
+- Adjbase: 11.3
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.3
+- Closed: -10
+- Opened: 0
+- Adjbase: 10.0
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 10.2
+- Closed: -10
+- Opened: 0
+- Adjbase: 13.45
+--- Position End
+position___ : --- Position Begin
+- Size: 0
+- Price: 0.0
+- Price orig: 19.45
+- Closed: -10
+- Opened: 0
+- Adjbase: 37.2
+--- Position End

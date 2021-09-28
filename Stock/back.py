@@ -10,6 +10,15 @@ dt_end = datetime.datetime.strptime("20210923", "%Y%m%d")
 stock_num = "2611"
 start_cash = 100000
 
+try:
+    os.remove(relative_path + "\\message.txt")
+except OSError as e:
+    print(e)
+else:
+    print("================================File is deleted successfully================================")
+
+sourceFile = open(relative_path + "\\message.txt", "w", encoding='utf-8')
+
 data = bt.feeds.GenericCSVData(
     dataname= relative_path + "\\dataFeed\\" + stock_num + ".csv",
     fromdate=dt_start,      # 起止日期
@@ -59,11 +68,15 @@ class SmaCross(bt.Strategy):
         self.datavolume = self.datas[0].volume
 
     def next(self):
-        print('當前可用資金', self.broker.getcash())
-        print('當前總資產', self.broker.getvalue())
-        print('當前持倉量', self.broker.getposition(self.data).size)
-        print('當前持倉成本', self.broker.getposition(self.data).price)
-        print(self.position)
+        # print('當前可用資金', self.broker.getcash())
+        print('當前可用資金', self.broker.getcash(), file=sourceFile)
+        # print('當前總資產', self.broker.getvalue())
+        print('當前總資產', self.broker.getvalue(), file=sourceFile)
+        # print('當前持倉量', self.broker.getposition(self.data).size)
+        print('當前持倉量', self.broker.getposition(self.data).size, file=sourceFile)
+        # print('當前持倉成本', self.broker.getposition(self.data).price)
+        print('當前持倉成本', self.broker.getposition(self.data).price, file=sourceFile)
+        print(self.position, file=sourceFile)
         # 帳戶沒有部位
         if not self.position:
             # 5ma往上穿越20ma
@@ -93,8 +106,9 @@ class sizer(bt.Sizer):
             # print(data[1])
             # print(math.floor(cash/data[0]))
             # print(math.floor(cash/data[1]))
-            print(type(data))
-            size = math.floor(cash/data[1])
+            print("position___ : " + str(self.broker.getposition(data)))
+            print("position___ : " + str(self.broker.getposition(data)), file=sourceFile)
+            size = math.floor(cash/data[0])
             if size > 10:
                 size = 10
             return size
@@ -114,5 +128,8 @@ cerebro.broker.setcash(start_cash)
 
 # run backtest
 cerebro.run()
+
+sourceFile.close()
 # plot diagram
 cerebro.plot()
+
