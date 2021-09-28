@@ -58,16 +58,17 @@ class SmaCross(bt.Strategy):
         # 使用自訂的sizer函數，將帳上的錢all-in
         self.setsizer(sizer())
         
-        # 用開盤價做交易
+        # open
         self.dataopen = self.datas[0].open
-
-        # 關盤價
+        # close
         self.dataclose = self.datas[0].close
-
-        # 成交量
+        # volume
         self.datavolume = self.datas[0].volume
 
     def next(self):
+        print("========================================", file=sourceFile)
+        print("data time: "  + str(self.datas[0].datetime.date(0)), file=sourceFile)
+        # print("type data time: "  + str(type(self.datatime[0])), file=sourceFile)
         # print('當前可用資金', self.broker.getcash())
         print('當前可用資金', self.broker.getcash(), file=sourceFile)
         # print('當前總資產', self.broker.getvalue())
@@ -77,6 +78,9 @@ class SmaCross(bt.Strategy):
         # print('當前持倉成本', self.broker.getposition(self.data).price)
         print('當前持倉成本', self.broker.getposition(self.data).price, file=sourceFile)
         print(self.position, file=sourceFile)
+        print("Open_init: " + str(self.dataopen[0]), file=sourceFile)
+        print("Close_init: " + str(self.dataclose[0]), file=sourceFile)
+        print("Volume_init: " + str(self.datavolume[0]), file=sourceFile)
         # 帳戶沒有部位
         if not self.position:
             # 5ma往上穿越20ma
@@ -106,14 +110,18 @@ class sizer(bt.Sizer):
             # print(data[1])
             # print(math.floor(cash/data[0]))
             # print(math.floor(cash/data[1]))
-            print("position___ : " + str(self.broker.getposition(data)))
-            print("position___ : " + str(self.broker.getposition(data)), file=sourceFile)
-            size = math.floor(cash/data[0])
-            if size > 10:
-                size = 10
+            # print("position___ : " + str(self.broker.getposition(data)))
+            print("position buy : " + str(self.broker.getposition(data)), file=sourceFile)
+            # print("Open : " + str(data[0]), file=sourceFile)
+            print("Open buy: " + str(data.open[0]), file=sourceFile)
+            size = math.floor(cash/data.open[0])
+            if size > data.volume[0]/2:
+                size = math.floor(data.volume[0]/2)
+            print("Size buy: " + str(size), file=sourceFile)   
             return size
         else:
-            print("sell: " + str(self.broker.getposition(data)))
+            size = self.broker.getposition(data)
+            print("Size sell: " + str(size), file=sourceFile)  
             return self.broker.getposition(data)
 
 # 初始化cerebro

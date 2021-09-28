@@ -14,15 +14,15 @@ from find_goodYoY import yoy
 import random
 import os
 
-# stock_list = yoy()
-# print(stock_list)
+stock_list = yoy()
+print(stock_list)
 relative_path = os.getcwd()
 start = time.time()
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', 1000)
 pd.set_option('max_colwidth', 100)
-stock_list = ["6712"]
+# stock_list = ["6712"]
 for num in stock_list:
     print("current stock number: " + num)
     driver = webdriver.Firefox()
@@ -30,8 +30,8 @@ for num in stock_list:
     select = Select(driver.find_element_by_id("selK_ChartPeriod"))
     select.select_by_value("365") 
 
-    # delay_choices = [60, 61, 62, 63]  #延遲的秒數
-    delay_choices = [5]
+    delay_choices = [60, 61, 62, 63]  #延遲的秒數
+    # delay_choices = [5]
     delay = random.choice(delay_choices)  #隨機選取秒數
     time.sleep(delay)  #延遲
 
