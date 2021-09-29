@@ -1,16 +1,14 @@
 import requests
 import pandas as pd
 from io import StringIO
-import datetime
 import os
 import time
 from bs4 import BeautifulSoup
 import backtrader as bt
 import backtrader.feeds as btfeeds
-import re
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
-from find_goodYoY import yoy
+from stock_num_function import yoy
 import random
 import os
 
@@ -77,8 +75,10 @@ for num in stock_list:
                     df.iloc[i,0] = str_year + df.iloc[i,0].replace("/", "-")
                     str_year = "2020-"
                     continue
+                # print(df.iloc[i,0])
                 df.iloc[i,0] = str_year + df.iloc[i,0].replace("/", "-")
             except IndexError as e:
+                df.iloc[i,0] = str_year + df.iloc[i,0].replace("/", "-")
                 print(e)
                 print("No more data")
         else:
@@ -92,6 +92,9 @@ for num in stock_list:
     except KeyError as e:
         print(e)
 
+    for i in range(0, df.shape[0], 1):
+        # print(df.iloc[i,4])
+        df.iloc[i,4] = float(df.iloc[i,4])*1000  #將張數轉成股數
     # print(df) 
     df.sort_index(inplace=True)
     df.to_csv(relative_path + "\\dataFeed\\" + num + ".csv", encoding='utf-8')
