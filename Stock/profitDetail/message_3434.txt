@@ -1,3327 +1,323 @@
 Init money: 100000.00
 ========================================
-data time: 2020-11-17
-當前可用資金 100000.0
-當前總資產 100000.0
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 0
-- Adjbase: None
---- Position End
-Open_init: 13.6
-Close_init: 13.7
-Volume_init: 6.15
-========================================
-data time: 2020-11-18
-當前可用資金 100000.0
-當前總資產 100000.0
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 0
-- Adjbase: None
---- Position End
-Open_init: 14.75
-Close_init: 14.4
-Volume_init: 11.0
-========================================
-data time: 2020-11-19
-當前可用資金 100000.0
-當前總資產 100000.0
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 0
-- Adjbase: None
---- Position End
-Open_init: 14.4
-Close_init: 14.5
-Volume_init: 11.0
-2020-11-19, BUY , Price: 14.4
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 0
-- Adjbase: None
---- Position End
-Open buy: 14.4
-Size buy: 1
-========================================
-data time: 2020-11-20
-當前可用資金 99985.471
-當前總資產 99999.971
-當前持倉量 1
-當前持倉成本 14.5
---- Position Begin
-- Size: 1
-- Price: 14.5
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 14.5
---- Position End
-Open_init: 14.5
-Close_init: 14.5
-Volume_init: 0.0
-========================================
-data time: 2020-11-23
-當前可用資金 99985.471
-當前總資產 99999.171
-當前持倉量 1
-當前持倉成本 14.5
---- Position Begin
-- Size: 1
-- Price: 14.5
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 13.7
---- Position End
-Open_init: 14.0
-Close_init: 13.7
-Volume_init: 21.6
-========================================
-data time: 2020-11-24
-當前可用資金 99985.471
-當前總資產 99999.32100000001
-當前持倉量 1
-當前持倉成本 14.5
---- Position Begin
-- Size: 1
-- Price: 14.5
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 13.85
---- Position End
-Open_init: 13.7
-Close_init: 13.85
-Volume_init: 15.0
-========================================
-data time: 2020-11-25
-當前可用資金 99985.471
-當前總資產 99999.221
-當前持倉量 1
-當前持倉成本 14.5
---- Position Begin
-- Size: 1
-- Price: 14.5
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 13.75
---- Position End
-Open_init: 13.8
-Close_init: 13.75
-Volume_init: 3.4
-========================================
-data time: 2020-11-26
-當前可用資金 99985.471
-當前總資產 99999.77100000001
-當前持倉量 1
-當前持倉成本 14.5
---- Position Begin
-- Size: 1
-- Price: 14.5
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 14.3
---- Position End
-Open_init: 13.85
-Close_init: 14.3
-Volume_init: 321.0
-2020-11-26, SELL , Price: 13.85
-========================================
-data time: 2020-11-27
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.2
-Close_init: 14.2
-Volume_init: 1.0
-========================================
-data time: 2020-11-30
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 15.6
-Close_init: 14.7
-Volume_init: 39.0
-========================================
-data time: 2020-12-01
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.7
-Close_init: 14.95
-Volume_init: 7.58
-2020-12-01, BUY , Price: 14.7
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open buy: 14.7
-Size buy: 0
-========================================
-data time: 2020-12-02
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.5
-Close_init: 14.5
-Volume_init: 3.0
-========================================
-data time: 2020-12-03
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.3
-Close_init: 14.2
-Volume_init: 24.1
-========================================
-data time: 2020-12-04
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.5
-Close_init: 14.1
-Volume_init: 24.0
-========================================
-data time: 2020-12-07
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.1
-Close_init: 14.1
-Volume_init: 0.0
-========================================
-data time: 2020-12-08
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.0
-Close_init: 14.05
-Volume_init: 18.0
-========================================
-data time: 2020-12-09
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.1
-Close_init: 13.95
-Volume_init: 23.0
-========================================
-data time: 2020-12-10
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 14.0
-Close_init: 14.0
-Volume_init: 4.0
-========================================
-data time: 2020-12-11
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.95
-Close_init: 13.95
-Volume_init: 3.0
-========================================
-data time: 2020-12-14
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.95
-Close_init: 13.95
-Volume_init: 0.0
-========================================
-data time: 2020-12-15
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.7
-Close_init: 13.7
-Volume_init: 1.02
-========================================
-data time: 2020-12-16
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.7
-Close_init: 13.7
-Volume_init: 0.0
-========================================
-data time: 2020-12-17
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 1.19
-========================================
-data time: 2020-12-18
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 0.0
-========================================
-data time: 2020-12-21
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 1.0
-========================================
-data time: 2020-12-22
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.9
-Close_init: 13.9
-Volume_init: 1.01
-========================================
-data time: 2020-12-23
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.9
-Close_init: 13.9
-Volume_init: 0.0
-========================================
-data time: 2020-12-24
-當前可用資金 99999.6426
-當前總資產 99999.6426
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open_init: 13.8
-Close_init: 13.95
-Volume_init: 42.0
-2020-12-24, BUY , Price: 13.8
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.5
-- Closed: -1
-- Opened: 0
-- Adjbase: 14.3
---- Position End
-Open buy: 13.8
-Size buy: 4
-========================================
-data time: 2020-12-25
-當前可用資金 99943.53060000001
-當前總資產 99998.13060000002
-當前持倉量 4
-當前持倉成本 14.0
---- Position Begin
-- Size: 4
-- Price: 14.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 4
-- Adjbase: 13.65
---- Position End
-Open_init: 14.0
-Close_init: 13.65
-Volume_init: 44.0
-========================================
-data time: 2020-12-28
-當前可用資金 99943.53060000001
-當前總資產 99999.9306
-當前持倉量 4
-當前持倉成本 14.0
---- Position Begin
-- Size: 4
-- Price: 14.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 4
-- Adjbase: 14.1
---- Position End
-Open_init: 14.0
-Close_init: 14.1
-Volume_init: 97.7
-========================================
-data time: 2020-12-29
-當前可用資金 99943.53060000001
-當前總資產 99998.9306
-當前持倉量 4
-當前持倉成本 14.0
---- Position Begin
-- Size: 4
-- Price: 14.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 4
-- Adjbase: 13.85
---- Position End
-Open_init: 13.7
-Close_init: 13.85
-Volume_init: 46.3
-========================================
-data time: 2020-12-30
-當前可用資金 99943.53060000001
-當前總資產 99999.13060000002
-當前持倉量 4
-當前持倉成本 14.0
---- Position Begin
-- Size: 4
-- Price: 14.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 4
-- Adjbase: 13.9
---- Position End
-Open_init: 13.9
-Close_init: 13.9
-Volume_init: 9.0
-========================================
-data time: 2020-12-31
-當前可用資金 99943.53060000001
-當前總資產 99998.13060000002
-當前持倉量 4
-當前持倉成本 14.0
---- Position Begin
-- Size: 4
-- Price: 14.0
-- Price orig: 0.0
-- Closed: 0
-- Opened: 4
-- Adjbase: 13.65
---- Position End
-Open_init: 13.4
-Close_init: 13.65
-Volume_init: 18.0
-2020-12-31, SELL , Price: 13.4
-========================================
-data time: 2021-01-04
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.65
-Close_init: 13.65
-Volume_init: 0.0
-========================================
-data time: 2021-01-05
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.7
-Close_init: 13.7
-Volume_init: 1.0
-========================================
-data time: 2021-01-06
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.7
-Close_init: 13.7
-Volume_init: 0.0
-========================================
-data time: 2021-01-07
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 14.0
-Close_init: 14.0
-Volume_init: 2.0
-========================================
-data time: 2021-01-08
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 14.0
-Close_init: 14.25
-Volume_init: 4.02
-2021-01-08, BUY , Price: 14.0
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open buy: 14.0
-Size buy: 0
-========================================
-data time: 2021-01-11
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.7
-Close_init: 14.25
-Volume_init: 9.0
-========================================
-data time: 2021-01-12
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 14.3
-Close_init: 14.25
-Volume_init: 13.0
-========================================
-data time: 2021-01-13
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 14.1
-Close_init: 14.15
-Volume_init: 37.4
-========================================
-data time: 2021-01-14
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 14.0
-Close_init: 14.1
-Volume_init: 12.0
-========================================
-data time: 2021-01-15
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.9
-Close_init: 14.0
-Volume_init: 8.0
-========================================
-data time: 2021-01-18
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 1.0
-========================================
-data time: 2021-01-19
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.8
-Close_init: 13.6
-Volume_init: 22.3
-========================================
-data time: 2021-01-20
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.6
-Close_init: 13.4
-Volume_init: 8.0
-========================================
-data time: 2021-01-21
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.4
-Close_init: 13.4
-Volume_init: 0.08
-========================================
-data time: 2021-01-22
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.4
-Close_init: 13.6
-Volume_init: 9.0
-========================================
-data time: 2021-01-25
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.6
-Volume_init: 6.0
-========================================
-data time: 2021-01-26
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.7
-Close_init: 13.5
-Volume_init: 3.0
-========================================
-data time: 2021-01-27
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.35
-Volume_init: 9.46
-========================================
-data time: 2021-01-28
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.35
-Close_init: 13.35
-Volume_init: 0.0
-========================================
-data time: 2021-01-29
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.35
-Close_init: 13.35
-Volume_init: 12.0
-========================================
-data time: 2021-02-01
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.35
-Close_init: 13.35
-Volume_init: 0.0
-========================================
-data time: 2021-02-02
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.7
-Close_init: 13.5
-Volume_init: 7.0
-========================================
-data time: 2021-02-03
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.3
-Close_init: 13.25
-Volume_init: 6.0
-========================================
-data time: 2021-02-04
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 12.85
-Close_init: 13.25
-Volume_init: 9.92
-========================================
-data time: 2021-02-05
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.25
-Close_init: 13.25
-Volume_init: 0.69
-========================================
-data time: 2021-02-17
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.35
-Close_init: 13.35
-Volume_init: 1.69
-========================================
-data time: 2021-02-18
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 3.0
-========================================
-data time: 2021-02-19
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 0.0
-2021-02-19, BUY , Price: 13.5
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open buy: 13.5
-Size buy: 0
-========================================
-data time: 2021-02-22
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 129.0
-========================================
-data time: 2021-02-23
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 4.0
-========================================
-data time: 2021-02-24
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.45
-Volume_init: 9.0
-========================================
-data time: 2021-02-25
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 26.6
-========================================
-data time: 2021-02-26
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 0.0
-========================================
-data time: 2021-03-02
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.4
-Close_init: 13.4
-Volume_init: 2.0
-========================================
-data time: 2021-03-03
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.3
-Close_init: 13.3
-Volume_init: 1.0
-========================================
-data time: 2021-03-04
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.3
-Close_init: 13.3
-Volume_init: 0.0
-========================================
-data time: 2021-03-05
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.45
-Close_init: 13.3
-Volume_init: 8.0
-========================================
-data time: 2021-03-08
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.6
-Close_init: 13.6
-Volume_init: 9.0
-========================================
-data time: 2021-03-09
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.65
-Close_init: 13.7
-Volume_init: 10.6
-========================================
-data time: 2021-03-10
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 1.0
-2021-03-10, BUY , Price: 13.8
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open buy: 13.8
-Size buy: 0
-========================================
-data time: 2021-03-11
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.8
-Close_init: 13.55
-Volume_init: 7.0
-========================================
-data time: 2021-03-12
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.55
-Close_init: 13.55
-Volume_init: 9.0
-========================================
-data time: 2021-03-15
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.55
-Close_init: 13.55
-Volume_init: 9.0
-========================================
-data time: 2021-03-16
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.55
-Close_init: 13.5
-Volume_init: 10.0
-========================================
-data time: 2021-03-17
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.8
-Volume_init: 15.0
-========================================
-data time: 2021-03-18
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 14.15
-Close_init: 13.5
-Volume_init: 50.0
-========================================
-data time: 2021-03-19
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.55
-Close_init: 12.9
-Volume_init: 417.0
-========================================
-data time: 2021-03-22
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.2
-Close_init: 13.4
-Volume_init: 59.9
-========================================
-data time: 2021-03-23
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.4
-Close_init: 13.6
-Volume_init: 28.0
-========================================
-data time: 2021-03-24
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.35
-Close_init: 13.5
-Volume_init: 14.0
-========================================
-data time: 2021-03-25
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 13.0
-========================================
-data time: 2021-03-26
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.9
-Close_init: 13.9
-Volume_init: 1.0
-2021-03-26, BUY , Price: 13.9
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open buy: 13.9
-Size buy: 0
-========================================
-data time: 2021-03-29
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.9
-Close_init: 13.7
-Volume_init: 7.0
-========================================
-data time: 2021-03-30
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.7
-Close_init: 13.4
-Volume_init: 3.15
-========================================
-data time: 2021-03-31
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.6
-Close_init: 13.6
-Volume_init: 2.0
-========================================
-data time: 2021-04-01
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 1.0
-========================================
-data time: 2021-04-06
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.6
-Close_init: 13.65
-Volume_init: 16.0
-========================================
-data time: 2021-04-07
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.65
-Close_init: 13.35
-Volume_init: 163.0
-========================================
-data time: 2021-04-08
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 30.0
-========================================
-data time: 2021-04-09
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.5
-Close_init: 13.5
-Volume_init: 36.0
-========================================
-data time: 2021-04-12
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.9
-Close_init: 13.65
-Volume_init: 14.0
-========================================
-data time: 2021-04-13
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.6
-Close_init: 13.75
-Volume_init: 13.0
-========================================
-data time: 2021-04-14
-當前可用資金 99998.02140000001
-當前總資產 99998.02140000001
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open_init: 13.75
-Close_init: 13.75
-Volume_init: 33.0
-2021-04-14, BUY , Price: 13.75
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 14.0
-- Closed: -4
-- Opened: 0
-- Adjbase: 13.65
---- Position End
-Open buy: 13.75
-Size buy: 3
-========================================
-data time: 2021-04-15
-當前可用資金 99956.68890000001
-當前總資產 99999.28890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.2
---- Position End
-Open_init: 13.75
-Close_init: 14.2
-Volume_init: 36.2
-========================================
-data time: 2021-04-16
-當前可用資金 99956.68890000001
-當前總資產 99999.43890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.25
---- Position End
-Open_init: 14.05
-Close_init: 14.25
-Volume_init: 44.0
-========================================
-data time: 2021-04-19
-當前可用資金 99956.68890000001
-當前總資產 99999.1389
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.15
---- Position End
-Open_init: 14.3
-Close_init: 14.15
-Volume_init: 46.0
-========================================
-data time: 2021-04-20
-當前可用資金 99956.68890000001
-當前總資產 99999.43890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.25
---- Position End
-Open_init: 14.15
-Close_init: 14.25
-Volume_init: 18.0
-========================================
-data time: 2021-04-21
-當前可用資金 99956.68890000001
-當前總資產 100000.03890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.45
---- Position End
-Open_init: 14.65
-Close_init: 14.45
-Volume_init: 9.7
-========================================
-data time: 2021-04-22
-當前可用資金 99956.68890000001
-當前總資產 99998.68890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.0
---- Position End
-Open_init: 14.15
-Close_init: 14.0
-Volume_init: 18.0
-========================================
-data time: 2021-04-23
-當前可用資金 99956.68890000001
-當前總資產 99999.73890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.35
---- Position End
-Open_init: 13.9
-Close_init: 14.35
-Volume_init: 3.46
-========================================
-data time: 2021-04-26
-當前可用資金 99956.68890000001
-當前總資產 100000.03890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.45
---- Position End
-Open_init: 14.1
-Close_init: 14.45
-Volume_init: 26.6
-========================================
-data time: 2021-04-27
-當前可用資金 99956.68890000001
-當前總資產 99999.5889
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.3
---- Position End
-Open_init: 14.45
-Close_init: 14.3
-Volume_init: 22.1
-========================================
-data time: 2021-04-28
-當前可用資金 99956.68890000001
-當前總資產 99999.5889
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.3
---- Position End
-Open_init: 14.2
-Close_init: 14.3
-Volume_init: 27.0
-========================================
-data time: 2021-04-29
-當前可用資金 99956.68890000001
-當前總資產 99999.1389
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.15
---- Position End
-Open_init: 14.55
-Close_init: 14.15
-Volume_init: 44.0
-========================================
-data time: 2021-05-03
-當前可用資金 99956.68890000001
-當前總資產 99999.28890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.2
---- Position End
-Open_init: 14.2
-Close_init: 14.2
-Volume_init: 25.5
-========================================
-data time: 2021-05-04
-當前可用資金 99956.68890000001
-當前總資產 99999.28890000001
-當前持倉量 3
-當前持倉成本 13.75
---- Position Begin
-- Size: 3
-- Price: 13.75
-- Price orig: 0.0
-- Closed: 0
-- Opened: 3
-- Adjbase: 14.2
---- Position End
-Open_init: 14.2
-Close_init: 14.2
-Volume_init: 0.21
-2021-05-04, SELL , Price: 14.2
-========================================
-data time: 2021-05-05
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.15
-Close_init: 14.15
-Volume_init: 0.0
-========================================
-data time: 2021-05-06
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.1
-Close_init: 14.4
-Volume_init: 73.7
-========================================
-data time: 2021-05-07
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.2
-Close_init: 14.15
-Volume_init: 13.0
-========================================
-data time: 2021-05-10
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.15
-Close_init: 14.1
-Volume_init: 54.0
-========================================
-data time: 2021-05-11
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.9
-Close_init: 13.65
-Volume_init: 18.0
-========================================
-data time: 2021-05-12
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.6
-Close_init: 12.75
-Volume_init: 39.0
-========================================
-data time: 2021-05-13
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 12.65
-Close_init: 13.45
-Volume_init: 7.0
-========================================
-data time: 2021-05-14
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.9
-Close_init: 13.9
-Volume_init: 12.3
-========================================
-data time: 2021-05-17
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.45
-Close_init: 13.05
-Volume_init: 8.0
-========================================
-data time: 2021-05-18
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 4.49
-========================================
-data time: 2021-05-19
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 0.0
-========================================
-data time: 2021-05-20
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.8
-Close_init: 13.8
-Volume_init: 0.0
-2021-05-20, BUY , Price: 13.8
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open buy: 13.8
-Size buy: 0
-========================================
-data time: 2021-05-21
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.5
-Close_init: 13.9
-Volume_init: 3.0
-========================================
-data time: 2021-05-24
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.9
-Close_init: 13.95
-Volume_init: 23.0
-========================================
-data time: 2021-05-25
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.15
-Close_init: 14.0
-Volume_init: 4.0
-========================================
-data time: 2021-05-26
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.85
-Close_init: 13.85
-Volume_init: 1.0
-========================================
-data time: 2021-05-27
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.65
-Close_init: 13.1
-Volume_init: 22.0
-========================================
-data time: 2021-05-28
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.5
-Close_init: 13.3
-Volume_init: 19.0
-========================================
-data time: 2021-05-31
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.25
-Close_init: 13.9
-Volume_init: 15.0
-========================================
-data time: 2021-06-01
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.9
-Close_init: 14.0
-Volume_init: 2.0
-========================================
-data time: 2021-06-02
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.0
-Close_init: 14.0
-Volume_init: 3.0
-========================================
-data time: 2021-06-03
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.0
-Close_init: 14.0
-Volume_init: 1.0
-2021-06-03, BUY , Price: 14.0
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open buy: 14.0
-Size buy: 0
-========================================
-data time: 2021-06-04
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.0
-Close_init: 14.0
-Volume_init: 0.0
-========================================
-data time: 2021-06-07
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.95
-Close_init: 13.95
-Volume_init: 0.0
-========================================
-data time: 2021-06-08
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.95
-Close_init: 13.95
-Volume_init: 0.0
-========================================
-data time: 2021-06-09
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.85
-Close_init: 13.85
-Volume_init: 2.0
-========================================
-data time: 2021-06-10
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.0
-Close_init: 14.4
-Volume_init: 264.0
-========================================
-data time: 2021-06-11
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.4
-Close_init: 14.3
-Volume_init: 36.3
-========================================
-data time: 2021-06-15
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.9
-Close_init: 14.35
-Volume_init: 38.2
-========================================
-data time: 2021-06-16
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.7
-Close_init: 14.15
-Volume_init: 21.7
-========================================
-data time: 2021-06-17
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.1
-Close_init: 14.15
-Volume_init: 105.0
-========================================
-data time: 2021-06-18
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.15
-Close_init: 14.0
-Volume_init: 6.01
-========================================
-data time: 2021-06-21
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.55
-Close_init: 13.6
-Volume_init: 12.0
-========================================
-data time: 2021-06-22
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.6
-Close_init: 13.55
-Volume_init: 13.0
-========================================
-data time: 2021-06-23
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.55
-Close_init: 13.55
-Volume_init: 0.0
-========================================
-data time: 2021-06-24
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.75
-Close_init: 13.75
-Volume_init: 4.0
-========================================
-data time: 2021-06-25
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.55
-Close_init: 14.0
-Volume_init: 7.0
-========================================
-data time: 2021-06-28
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.75
-Close_init: 13.7
-Volume_init: 10.0
-========================================
-data time: 2021-06-29
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.0
-Close_init: 13.5
-Volume_init: 49.0
-========================================
-data time: 2021-06-30
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 13.7
-Close_init: 13.8
-Volume_init: 17.0
-========================================
-data time: 2021-07-01
-當前可用資金 99999.054
-當前總資產 99999.054
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open_init: 14.0
-Close_init: 13.6
-Volume_init: 11.7
-2021-07-01, BUY , Price: 14.0
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.75
-- Closed: -3
-- Opened: 0
-- Adjbase: 14.2
---- Position End
-Open buy: 14.0
-Size buy: 1
-========================================
-data time: 2021-07-02
-當前可用資金 99985.4769
-當前總資產 99998.9769
-當前持倉量 1
-當前持倉成本 13.55
---- Position Begin
-- Size: 1
-- Price: 13.55
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 13.5
---- Position End
-Open_init: 13.55
-Close_init: 13.5
-Volume_init: 4.42
-2021-07-02, SELL , Price: 13.55
-========================================
-data time: 2021-07-05
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.8
-Close_init: 13.6
-Volume_init: 38.4
-========================================
-data time: 2021-07-06
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.6
-Close_init: 13.7
-Volume_init: 11.0
-========================================
-data time: 2021-07-07
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.5
-Close_init: 13.8
-Volume_init: 5.0
-========================================
-data time: 2021-07-08
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 14.0
-Close_init: 13.85
-Volume_init: 28.0
-========================================
-data time: 2021-07-09
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.85
-Close_init: 13.85
-Volume_init: 0.0
-2021-07-09, BUY , Price: 13.85
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open buy: 13.85
-Size buy: 0
-========================================
-data time: 2021-07-12
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 14.0
-Close_init: 14.15
-Volume_init: 47.0
-========================================
-data time: 2021-07-13
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 14.2
-Close_init: 13.6
-Volume_init: 50.0
-========================================
-data time: 2021-07-14
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.6
-Close_init: 13.6
-Volume_init: 0.0
-========================================
-data time: 2021-07-15
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.9
-Close_init: 14.0
-Volume_init: 3.45
-========================================
-data time: 2021-07-16
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.7
-Close_init: 13.9
-Volume_init: 13.0
-========================================
-data time: 2021-07-19
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.9
-Close_init: 13.9
-Volume_init: 1.0
-========================================
-data time: 2021-07-20
-當前可用資金 99999.2493
-當前總資產 99999.2493
-當前持倉量 0
-當前持倉成本 0.0
---- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open_init: 13.7
-Close_init: 14.0
-Volume_init: 14.0
-2021-07-20, BUY , Price: 13.7
-position buy : --- Position Begin
-- Size: 0
-- Price: 0.0
-- Price orig: 13.55
-- Closed: -1
-- Opened: 0
-- Adjbase: 13.5
---- Position End
-Open buy: 13.7
-Size buy: 1
-========================================
-data time: 2021-07-21
-當前可用資金 99985.42169999999
-當前總資產 99999.42169999999
-當前持倉量 1
-當前持倉成本 13.8
---- Position Begin
-- Size: 1
-- Price: 13.8
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 14.0
---- Position End
-Open_init: 13.8
-Close_init: 14.0
-Volume_init: 8.0
-========================================
-data time: 2021-07-22
-當前可用資金 99985.42169999999
-當前總資產 99999.42169999999
-當前持倉量 1
-當前持倉成本 13.8
---- Position Begin
-- Size: 1
-- Price: 13.8
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 14.0
---- Position End
-Open_init: 14.0
-Close_init: 14.0
-Volume_init: 1.0
-========================================
-data time: 2021-07-23
-當前可用資金 99985.42169999999
-當前總資產 99999.62169999999
-當前持倉量 1
-當前持倉成本 13.8
---- Position Begin
-- Size: 1
-- Price: 13.8
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 14.2
---- Position End
-Open_init: 13.85
-Close_init: 14.2
-Volume_init: 61.0
-========================================
-data time: 2021-07-26
-當前可用資金 99985.42169999999
-當前總資產 100000.12169999999
-當前持倉量 1
-當前持倉成本 13.8
---- Position Begin
-- Size: 1
-- Price: 13.8
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 14.7
---- Position End
-Open_init: 14.2
-Close_init: 14.7
-Volume_init: 105.0
-========================================
-data time: 2021-07-27
-當前可用資金 99985.42169999999
-當前總資產 99999.4717
-當前持倉量 1
-當前持倉成本 13.8
---- Position Begin
-- Size: 1
-- Price: 13.8
-- Price orig: 0.0
-- Closed: 0
-- Opened: 1
-- Adjbase: 14.05
---- Position End
-Open_init: 14.8
-Close_init: 14.05
-Volume_init: 44.5
-========================================
 data time: 2021-07-28
-當前可用資金 99985.42169999999
-當前總資產 99999.2217
-當前持倉量 1
-當前持倉成本 13.8
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
 --- Position Begin
-- Size: 1
-- Price: 13.8
+- Size: 0
+- Price: 0.0
 - Price orig: 0.0
 - Closed: 0
-- Opened: 1
-- Adjbase: 13.8
+- Opened: 0
+- Adjbase: None
 --- Position End
 Open_init: 14.05
 Close_init: 13.8
-Volume_init: 25.0
+Volume_init: 25000.0
 ========================================
 data time: 2021-07-29
-當前可用資金 99985.42169999999
-當前總資產 99999.42169999999
-當前持倉量 1
-當前持倉成本 13.8
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
 --- Position Begin
-- Size: 1
-- Price: 13.8
+- Size: 0
+- Price: 0.0
 - Price orig: 0.0
 - Closed: 0
-- Opened: 1
-- Adjbase: 14.0
+- Opened: 0
+- Adjbase: None
 --- Position End
 Open_init: 13.95
 Close_init: 14.0
-Volume_init: 12.5
+Volume_init: 12500.0
 ========================================
 data time: 2021-07-30
-當前可用資金 99985.42169999999
-當前總資產 99999.42169999999
-當前持倉量 1
-當前持倉成本 13.8
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
 --- Position Begin
-- Size: 1
-- Price: 13.8
+- Size: 0
+- Price: 0.0
 - Price orig: 0.0
 - Closed: 0
-- Opened: 1
-- Adjbase: 14.0
+- Opened: 0
+- Adjbase: None
 --- Position End
 Open_init: 13.8
 Close_init: 14.0
-Volume_init: 11.0
+Volume_init: 11000.0
 ========================================
 data time: 2021-08-02
-當前可用資金 99985.42169999999
-當前總資產 99999.42169999999
-當前持倉量 1
-當前持倉成本 13.8
+當前可用資金 100000.0
+當前總資產 100000.0
+當前持倉量 0
+當前持倉成本 0.0
 --- Position Begin
-- Size: 1
-- Price: 13.8
+- Size: 0
+- Price: 0.0
 - Price orig: 0.0
 - Closed: 0
-- Opened: 1
-- Adjbase: 14.0
+- Opened: 0
+- Adjbase: None
 --- Position End
 Open_init: 14.2
 Close_init: 14.0
-Volume_init: 4.0
-2021-08-02, SELL , Price: 14.2
+Volume_init: 4000.0
 ========================================
 data time: 2021-08-03
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 14.0
 Close_init: 14.0
-Volume_init: 1.0
+Volume_init: 1000.0
 ========================================
 data time: 2021-08-04
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.95
 Close_init: 13.95
-Volume_init: 7.0
+Volume_init: 7000.0
 ========================================
 data time: 2021-08-05
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.75
 Close_init: 13.95
-Volume_init: 14.0
+Volume_init: 14000.0
 ========================================
 data time: 2021-08-06
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 14.0
 Close_init: 13.6
-Volume_init: 85.0
+Volume_init: 85000.0
 ========================================
 data time: 2021-08-09
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.6
 Close_init: 13.85
-Volume_init: 6.18
+Volume_init: 6180.0
 ========================================
 data time: 2021-08-10
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.85
 Close_init: 13.45
-Volume_init: 10.0
+Volume_init: 10000.0
 ========================================
 data time: 2021-08-11
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.4
 Close_init: 13.2
-Volume_init: 3.0
+Volume_init: 3000.0
 ========================================
 data time: 2021-08-12
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.3
 Close_init: 13.0
-Volume_init: 12.4
+Volume_init: 12400.0
 ========================================
 data time: 2021-08-13
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.0
 Close_init: 13.0
-Volume_init: 3.39
+Volume_init: 3390.0
 ========================================
 data time: 2021-08-16
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 12.8
 Close_init: 12.8
-Volume_init: 2.0
+Volume_init: 2000.0
 ========================================
 data time: 2021-08-17
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.0
 Close_init: 13.05
-Volume_init: 4.0
+Volume_init: 4000.0
 ========================================
 data time: 2021-08-18
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.4
 Close_init: 13.4
-Volume_init: 1.0
+Volume_init: 1000.0
 ========================================
 data time: 2021-08-19
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.45
 Close_init: 13.45
-Volume_init: 1.0
+Volume_init: 1000.0
 ========================================
 data time: 2021-08-20
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.45
 Close_init: 13.45
-Volume_init: 0.03
+Volume_init: 30.0
 ========================================
 data time: 2021-08-23
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.35
 Close_init: 13.35
@@ -3330,325 +326,325 @@ Volume_init: 0.0
 position buy : --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open buy: 13.35
 Size buy: 0
 ========================================
 data time: 2021-08-24
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.45
 Close_init: 13.75
-Volume_init: 9.0
+Volume_init: 9000.0
 ========================================
 data time: 2021-08-25
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.75
 Close_init: 13.9
-Volume_init: 9.0
+Volume_init: 9000.0
 ========================================
 data time: 2021-08-26
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.9
 Close_init: 13.9
 Volume_init: 0.0
 ========================================
 data time: 2021-08-27
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 14.0
 Close_init: 13.9
-Volume_init: 13.0
+Volume_init: 13000.0
 ========================================
 data time: 2021-08-30
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.5
 Close_init: 13.5
-Volume_init: 1.38
+Volume_init: 1380.0
 ========================================
 data time: 2021-08-31
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.5
 Close_init: 13.45
-Volume_init: 5.0
+Volume_init: 5000.0
 ========================================
 data time: 2021-09-01
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.45
 Close_init: 13.45
 Volume_init: 0.0
 ========================================
 data time: 2021-09-02
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.8
 Close_init: 13.85
-Volume_init: 5.03
+Volume_init: 5030.0
 ========================================
 data time: 2021-09-03
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.95
 Close_init: 13.95
-Volume_init: 1.3
+Volume_init: 1300.0
 ========================================
 data time: 2021-09-06
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.9
 Close_init: 13.9
-Volume_init: 8.0
+Volume_init: 8000.0
 ========================================
 data time: 2021-09-07
-當前可用資金 99999.39369999999
-當前總資產 99999.39369999999
+當前可用資金 100000.0
+當前總資產 100000.0
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open_init: 13.5
 Close_init: 13.6
-Volume_init: 17.0
+Volume_init: 17000.0
 2021-09-07, BUY , Price: 13.5
 position buy : --- Position Begin
 - Size: 0
 - Price: 0.0
-- Price orig: 13.8
-- Closed: -1
+- Price orig: 0.0
+- Closed: 0
 - Opened: 0
-- Adjbase: 14.0
+- Adjbase: None
 --- Position End
 Open buy: 13.5
-Size buy: 1
+Size buy: 1700
 ========================================
 data time: 2021-09-08
-當前可用資金 99985.81659999998
-當前總資產 99999.16659999998
-當前持倉量 1
+當前可用資金 76918.93
+當前總資產 99613.93
+當前持倉量 1700
 當前持倉成本 13.55
 --- Position Begin
-- Size: 1
+- Size: 1700
 - Price: 13.55
 - Price orig: 0.0
 - Closed: 0
-- Opened: 1
+- Opened: 1700
 - Adjbase: 13.35
 --- Position End
 Open_init: 13.55
 Close_init: 13.35
-Volume_init: 9.0
+Volume_init: 9000.0
 ========================================
 data time: 2021-09-09
-當前可用資金 99985.81659999998
-當前總資產 99999.46659999997
-當前持倉量 1
+當前可用資金 76918.93
+當前總資產 100123.93
+當前持倉量 1700
 當前持倉成本 13.55
 --- Position Begin
-- Size: 1
+- Size: 1700
 - Price: 13.55
 - Price orig: 0.0
 - Closed: 0
-- Opened: 1
+- Opened: 1700
 - Adjbase: 13.65
 --- Position End
 Open_init: 13.75
 Close_init: 13.65
-Volume_init: 4.0
+Volume_init: 4000.0
 ========================================
 data time: 2021-09-10
-當前可用資金 99985.81659999998
-當前總資產 99999.46659999997
-當前持倉量 1
+當前可用資金 76918.93
+當前總資產 100123.93
+當前持倉量 1700
 當前持倉成本 13.55
 --- Position Begin
-- Size: 1
+- Size: 1700
 - Price: 13.55
 - Price orig: 0.0
 - Closed: 0
-- Opened: 1
+- Opened: 1700
 - Adjbase: 13.65
 --- Position End
 Open_init: 13.65
 Close_init: 13.65
-Volume_init: 8.92
+Volume_init: 8920.0
 2021-09-10, SELL , Price: 13.65
 ========================================
 data time: 2021-09-13
-當前可用資金 99999.23969999998
-當前總資產 99999.23969999998
+當前可用資金 99738.2
+當前總資產 99738.2
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
 - Price orig: 13.55
-- Closed: -1
+- Closed: -1700
 - Opened: 0
 - Adjbase: 13.65
 --- Position End
 Open_init: 13.45
 Close_init: 13.6
-Volume_init: 48.0
+Volume_init: 48000.0
 ========================================
 data time: 2021-09-14
-當前可用資金 99999.23969999998
-當前總資產 99999.23969999998
+當前可用資金 99738.2
+當前總資產 99738.2
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
 - Price orig: 13.55
-- Closed: -1
+- Closed: -1700
 - Opened: 0
 - Adjbase: 13.65
 --- Position End
 Open_init: 13.6
 Close_init: 13.6
-Volume_init: 2.0
+Volume_init: 2000.0
 ========================================
 data time: 2021-09-15
-當前可用資金 99999.23969999998
-當前總資產 99999.23969999998
+當前可用資金 99738.2
+當前總資產 99738.2
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
 - Price orig: 13.55
-- Closed: -1
+- Closed: -1700
 - Opened: 0
 - Adjbase: 13.65
 --- Position End
 Open_init: 13.4
 Close_init: 13.3
-Volume_init: 24.0
+Volume_init: 24000.0
 ========================================
 data time: 2021-09-16
-當前可用資金 99999.23969999998
-當前總資產 99999.23969999998
+當前可用資金 99738.2
+當前總資產 99738.2
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
 - Price orig: 13.55
-- Closed: -1
+- Closed: -1700
 - Opened: 0
 - Adjbase: 13.65
 --- Position End
@@ -3657,38 +653,38 @@ Close_init: 13.3
 Volume_init: 0.0
 ========================================
 data time: 2021-09-17
-當前可用資金 99999.23969999998
-當前總資產 99999.23969999998
+當前可用資金 99738.2
+當前總資產 99738.2
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
 - Price orig: 13.55
-- Closed: -1
+- Closed: -1700
 - Opened: 0
 - Adjbase: 13.65
 --- Position End
 Open_init: 13.5
 Close_init: 13.5
-Volume_init: 3.0
+Volume_init: 3000.0
 ========================================
 data time: 2021-09-22
-當前可用資金 99999.23969999998
-當前總資產 99999.23969999998
+當前可用資金 99738.2
+當前總資產 99738.2
 當前持倉量 0
 當前持倉成本 0.0
 --- Position Begin
 - Size: 0
 - Price: 0.0
 - Price orig: 13.55
-- Closed: -1
+- Closed: -1700
 - Opened: 0
 - Adjbase: 13.65
 --- Position End
 Open_init: 13.55
 Close_init: 13.55
-Volume_init: 6.0
+Volume_init: 6000.0
 ========================================
-Final money: 99999.24
-profit percentage: -0.00%
+Final money: 99738.20
+profit percentage: -0.26%

@@ -19,7 +19,7 @@ stock_list = yoy()
 print(stock_list)
 
 # stock_list = ["2611"]
-# start_cash = 100000
+start_cash = 100000
 wb_gen = Workbook()
 fill_red = PatternFill('solid', fgColor='FF0000')
 fill_green = PatternFill('solid', fgColor='00FF00')
